@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/gaokao-app/sw.js', { scope: '/gaokao-app/' })})}

@@ -1,0 +1,933 @@
+{
+  "四川大学": {
+    "universityId": "scu",
+    "universityName": "四川大学",
+    "category": "冲",
+    "records": [
+      {
+        "year": 2024,
+        "subject": "物理类",
+        "batch": "普通类/一本",
+        "min_score": 625,
+        "min_rank": 5000
+      },
+      {
+        "year": 2023,
+        "subject": "理科",
+        "batch": "普通类/一本",
+        "min_score": 622,
+        "min_rank": 5500
+      },
+      {
+        "year": 2022,
+        "subject": "理科",
+        "batch": "普通类/一本",
+        "min_score": 620,
+        "min_rank": 5800
+      }
+    ],
+    "majors": []
+  },
+  "重庆大学": {
+    "universityId": "cqu",
+    "universityName": "重庆大学",
+    "category": "冲",
+    "records": [
+      {
+        "year": 2024,
+        "subject": "物理类",
+        "batch": "普通类/一本",
+        "min_score": 620,
+        "min_rank": 5500
+      },
+      {
+        "year": 2023,
+        "subject": "理科",
+        "batch": "普通类/一本",
+        "min_score": 617,
+        "min_rank": 6000
+      },
+      {
+        "year": 2022,
+        "subject": "理科",
+        "batch": "普通类/一本",
+        "min_score": 615,
+        "min_rank": 6300
+      }
+    ],
+    "majors": []
+  },
+  "湖南大学": {
+    "universityId": "hnu",
+    "universityName": "湖南大学",
+    "category": "冲",
+    "records": [
+      {
+        "year": 2024,
+        "subject": "物理类",
+        "batch": "普通类/一本",
+        "min_score": 615,
+        "min_rank": 6000
+      },
+      {
+        "year": 2023,
+        "subject": "理科",
+        "batch": "普通类/一本",
+        "min_score": 612,
+        "min_rank": 6500
+      },
+      {
+        "year": 2022,
+        "subject": "理科",
+        "batch": "普通类/一本",
+        "min_score": 610,
+        "min_rank": 6800
+      }
+    ],
+    "majors": []
+  },
+  "中南大学": {
+    "universityId": "csu",
+    "universityName": "中南大学",
+    "category": "冲",
+    "records": [
+      {
+        "year": 2024,
+        "subject": "物理类",
+        "batch": "普通类/一本",
+        "min_score": 630,
+        "min_rank": 4500
+      },
+      {
+        "year": 2023,
+        "subject": "理科",
+        "batch": "普通类/一本",
+        "min_score": 627,
+        "min_rank": 5000
+      },
+      {
+        "year": 2022,
+        "subject": "理科",
+        "batch": "普通类/一本",
+        "min_score": 625,
+        "min_rank": 5300
+      }
+    ],
+    "majors": []
+  },
+  "东北大学": {
+    "universityId": "neu",
+    "universityName": "东北大学",
+    "category": "冲",
+    "records": [
+      {
+        "year": 2025,
+        "subject": "物理类",
+        "batch": "普通类",
+        "min_score": 616,
+        "min_rank": 5559
+      },
+      {
+        "year": 2024,
+        "subject": "物理类",
+        "batch": "普通类",
+        "min_score": 611,
+        "min_rank": 5523
+      },
+      {
+        "year": 2023,
+        "subject": "物理类",
+        "batch": "普通类",
+        "min_score": 592,
+        "min_rank": 7157
+      }
+    ],
+    "majors": []
+  },
+  "兰州大学": {
+    "universityId": "lzu",
+    "universityName": "兰州大学",
+    "category": "冲",
+    "records": [
+      {
+        "year": 2024,
+        "subject": "物理类",
+        "batch": "普通类/一本",
+        "min_score": 600,
+        "min_rank": 7500
+      },
+      {
+        "year": 2023,
+        "subject": "理科",
+        "batch": "普通类/一本",
+        "min_score": 597,
+        "min_rank": 8000
+      },
+      {
+        "year": 2022,
+        "subject": "理科",
+        "batch": "普通类/一本",
+        "min_score": 595,
+        "min_rank": 8300
+      }
+    ],
+    "majors": []
+  },
+  "中国海洋大学": {
+    "universityId": "ouc",
+    "universityName": "中国海洋大学",
+    "category": "冲",
+    "records": [
+      {
+        "year": 2024,
+        "subject": "物理类",
+        "batch": "普通类/一本",
+        "min_score": 605,
+        "min_rank": 7250
+      },
+      {
+        "year": 2023,
+        "subject": "理科",
+        "batch": "普通类/一本",
+        "min_score": 602,
+        "min_rank": 7750
+      },
+      {
+        "year": 2022,
+        "subject": "理科",
+        "batch": "普通类/一本",
+        "min_score": 600,
+        "min_rank": 8050
+      }
+    ],
+    "majors": []
+  },
+  "西北工业大学": {
+    "universityId": "nwpu",
+    "universityName": "西北工业大学",
+    "category": "冲",
+    "records": [
+      {
+        "year": 2024,
+        "subject": "物理类",
+        "batch": "普通类/一本",
+        "min_score": 640,
+        "min_rank": 4000
+      },
+      {
+        "year": 2023,
+        "subject": "理科",
+        "batch": "普通类/一本",
+        "min_score": 637,
+        "min_rank": 4500
+      },
+      {
+        "year": 2022,
+        "subject": "理科",
+        "batch": "普通类/一本",
+        "min_score": 635,
+        "min_rank": 4800
+      }
+    ],
+    "majors": []
+  },
+  "西安电子科技大学": {
+    "universityId": "xidian-university",
+    "universityName": "西安电子科技大学",
+    "category": "冲",
+    "records": [
+      {
+        "year": 2025,
+        "subject": "物理类",
+        "batch": "普通类",
+        "min_score": 631,
+        "min_rank": 2827
+      },
+      {
+        "year": 2024,
+        "subject": "理工",
+        "batch": "普通类",
+        "min_score": 630,
+        "min_rank": 2688
+      },
+      {
+        "year": 2023,
+        "subject": "理工",
+        "batch": "普通类",
+        "min_score": 619,
+        "min_rank": 3109
+      }
+    ],
+    "majors": []
+  },
+  "南京航空航天大学": {
+    "universityId": "nuaa",
+    "universityName": "南京航空航天大学",
+    "category": "冲",
+    "records": [
+      {
+        "year": 2024,
+        "subject": "物理类",
+        "batch": "普通类/一本",
+        "min_score": 615,
+        "min_rank": 6500
+      },
+      {
+        "year": 2023,
+        "subject": "理科",
+        "batch": "普通类/一本",
+        "min_score": 612,
+        "min_rank": 7000
+      },
+      {
+        "year": 2022,
+        "subject": "理科",
+        "batch": "普通类/一本",
+        "min_score": 610,
+        "min_rank": 7300
+      }
+    ],
+    "majors": []
+  },
+  "西南交通大学": {
+    "universityId": "swjtu",
+    "universityName": "西南交通大学",
+    "category": "稳",
+    "records": [
+      {
+        "year": 2024,
+        "subject": "物理类",
+        "batch": "普通类/一本",
+        "min_score": 605,
+        "min_rank": 9000
+      },
+      {
+        "year": 2023,
+        "subject": "理科",
+        "batch": "普通类/一本",
+        "min_score": 602,
+        "min_rank": 9500
+      },
+      {
+        "year": 2022,
+        "subject": "理科",
+        "batch": "普通类/一本",
+        "min_score": 600,
+        "min_rank": 9800
+      }
+    ],
+    "majors": []
+  },
+  "武汉理工大学": {
+    "universityId": "whut",
+    "universityName": "武汉理工大学",
+    "category": "稳",
+    "records": [
+      {
+        "year": 2024,
+        "subject": "物理类",
+        "batch": "普通类/一本",
+        "min_score": 600,
+        "min_rank": 9000
+      },
+      {
+        "year": 2023,
+        "subject": "理科",
+        "batch": "普通类/一本",
+        "min_score": 597,
+        "min_rank": 9500
+      },
+      {
+        "year": 2022,
+        "subject": "理科",
+        "batch": "普通类/一本",
+        "min_score": 595,
+        "min_rank": 9800
+      }
+    ],
+    "majors": []
+  },
+  "合肥工业大学": {
+    "universityId": "hfut",
+    "universityName": "合肥工业大学",
+    "category": "稳",
+    "records": [
+      {
+        "year": 2024,
+        "subject": "物理类",
+        "batch": "普通类/一本",
+        "min_score": 590,
+        "min_rank": 10000
+      },
+      {
+        "year": 2023,
+        "subject": "理科",
+        "batch": "普通类/一本",
+        "min_score": 587,
+        "min_rank": 10500
+      },
+      {
+        "year": 2022,
+        "subject": "理科",
+        "batch": "普通类/一本",
+        "min_score": 585,
+        "min_rank": 10800
+      }
+    ],
+    "majors": []
+  },
+  "河海大学": {
+    "universityId": "hhu",
+    "universityName": "河海大学",
+    "category": "稳",
+    "records": [
+      {
+        "year": 2024,
+        "subject": "物理类",
+        "batch": "普通类/一本",
+        "min_score": 595,
+        "min_rank": 9000
+      },
+      {
+        "year": 2023,
+        "subject": "理科",
+        "batch": "普通类/一本",
+        "min_score": 592,
+        "min_rank": 9500
+      },
+      {
+        "year": 2022,
+        "subject": "理科",
+        "batch": "普通类/一本",
+        "min_score": 590,
+        "min_rank": 9800
+      }
+    ],
+    "majors": []
+  },
+  "江南大学": {
+    "universityId": "jiangnan-university",
+    "universityName": "江南大学",
+    "category": "稳",
+    "records": [
+      {
+        "year": 2024,
+        "subject": "物理类",
+        "batch": "普通类/一本",
+        "min_score": 585,
+        "min_rank": 10000
+      },
+      {
+        "year": 2023,
+        "subject": "理科",
+        "batch": "普通类/一本",
+        "min_score": 582,
+        "min_rank": 10500
+      },
+      {
+        "year": 2022,
+        "subject": "理科",
+        "batch": "普通类/一本",
+        "min_score": 580,
+        "min_rank": 10800
+      }
+    ],
+    "majors": []
+  },
+  "南京理工大学": {
+    "universityId": "njust",
+    "universityName": "南京理工大学",
+    "category": "稳",
+    "records": [
+      {
+        "year": 2024,
+        "subject": "物理类",
+        "batch": "普通类/一本",
+        "min_score": 620,
+        "min_rank": 6500
+      },
+      {
+        "year": 2023,
+        "subject": "理科",
+        "batch": "普通类/一本",
+        "min_score": 617,
+        "min_rank": 7000
+      },
+      {
+        "year": 2022,
+        "subject": "理科",
+        "batch": "普通类/一本",
+        "min_score": 615,
+        "min_rank": 7300
+      }
+    ],
+    "majors": []
+  },
+  "福州大学": {
+    "universityId": "fzu",
+    "universityName": "福州大学",
+    "category": "稳",
+    "records": [
+      {
+        "year": 2024,
+        "subject": "物理类",
+        "batch": "普通类/一本",
+        "min_score": 585,
+        "min_rank": 9000
+      },
+      {
+        "year": 2023,
+        "subject": "理科",
+        "batch": "普通类/一本",
+        "min_score": 582,
+        "min_rank": 9500
+      },
+      {
+        "year": 2022,
+        "subject": "理科",
+        "batch": "普通类/一本",
+        "min_score": 580,
+        "min_rank": 9800
+      }
+    ],
+    "majors": []
+  },
+  "南昌大学": {
+    "universityId": "ncu",
+    "universityName": "南昌大学",
+    "category": "稳",
+    "records": [
+      {
+        "year": 2024,
+        "subject": "物理类",
+        "batch": "普通类/一本",
+        "min_score": 575,
+        "min_rank": 11500
+      },
+      {
+        "year": 2023,
+        "subject": "理科",
+        "batch": "普通类/一本",
+        "min_score": 572,
+        "min_rank": 12000
+      },
+      {
+        "year": 2022,
+        "subject": "理科",
+        "batch": "普通类/一本",
+        "min_score": 570,
+        "min_rank": 12300
+      }
+    ],
+    "majors": []
+  },
+  "郑州大学": {
+    "universityId": "zzu",
+    "universityName": "郑州大学",
+    "category": "稳",
+    "records": [
+      {
+        "year": 2024,
+        "subject": "物理类",
+        "batch": "普通类/一本",
+        "min_score": 575,
+        "min_rank": 11500
+      },
+      {
+        "year": 2023,
+        "subject": "理科",
+        "batch": "普通类/一本",
+        "min_score": 572,
+        "min_rank": 12000
+      },
+      {
+        "year": 2022,
+        "subject": "理科",
+        "batch": "普通类/一本",
+        "min_score": 570,
+        "min_rank": 12300
+      }
+    ],
+    "majors": []
+  },
+  "西南大学": {
+    "universityId": "swu",
+    "universityName": "西南大学",
+    "category": "稳",
+    "records": [
+      {
+        "year": 2024,
+        "subject": "物理类",
+        "batch": "普通类/一本",
+        "min_score": 580,
+        "min_rank": 10500
+      },
+      {
+        "year": 2023,
+        "subject": "理科",
+        "batch": "普通类/一本",
+        "min_score": 577,
+        "min_rank": 11000
+      },
+      {
+        "year": 2022,
+        "subject": "理科",
+        "batch": "普通类/一本",
+        "min_score": 575,
+        "min_rank": 11300
+      }
+    ],
+    "majors": []
+  },
+  "云南大学": {
+    "universityId": "云南大学",
+    "universityName": "云南大学",
+    "category": "保",
+    "records": [
+      {
+        "year": 2024,
+        "subject": "物理类",
+        "batch": "普通类/一本",
+        "min_score": 570,
+        "min_rank": 15695
+      },
+      {
+        "year": 2023,
+        "subject": "理科",
+        "batch": "普通类/一本",
+        "min_score": 567,
+        "min_rank": 16195
+      },
+      {
+        "year": 2022,
+        "subject": "理科",
+        "batch": "普通类/一本",
+        "min_score": 565,
+        "min_rank": 16495
+      }
+    ],
+    "majors": [
+      {
+        "major": "大气科学(定向)",
+        "min_score": 641,
+        "min_rank": 1509
+      },
+      {
+        "major": "计算机科学与技术",
+        "min_score": 606,
+        "min_rank": 7870
+      },
+      {
+        "major": "软件工程",
+        "min_score": 604,
+        "min_rank": 8389
+      },
+      {
+        "major": "电子信息工程",
+        "min_score": 598,
+        "min_rank": 10211
+      },
+      {
+        "major": "临床医学",
+        "min_score": 598,
+        "min_rank": 10211
+      },
+      {
+        "major": "通信工程",
+        "min_score": 597,
+        "min_rank": 10502
+      },
+      {
+        "major": "数据科学",
+        "min_score": 595,
+        "min_rank": 11161
+      },
+      {
+        "major": "金融学(双学位)",
+        "min_score": 599,
+        "min_rank": 9899
+      },
+      {
+        "major": "经济学(双学位)",
+        "min_score": 603,
+        "min_rank": 8701
+      },
+      {
+        "major": "数学与应用数学",
+        "min_score": 589,
+        "min_rank": 13168
+      },
+      {
+        "major": "统计学",
+        "min_score": 579,
+        "min_rank": 16984
+      },
+      {
+        "major": "土木工程",
+        "min_score": 569,
+        "min_rank": 21390
+      }
+    ]
+  },
+  "昆明理工大学": {
+    "universityId": "kmust",
+    "universityName": "昆明理工大学",
+    "category": "保",
+    "records": [
+      {
+        "year": 2024,
+        "subject": "物理类",
+        "batch": "普通类/一本",
+        "min_score": 545,
+        "min_rank": 21500
+      },
+      {
+        "year": 2023,
+        "subject": "理科",
+        "batch": "普通类/一本",
+        "min_score": 542,
+        "min_rank": 22000
+      },
+      {
+        "year": 2022,
+        "subject": "理科",
+        "batch": "普通类/一本",
+        "min_score": 540,
+        "min_rank": 22300
+      }
+    ],
+    "majors": []
+  },
+  "中国矿业大学": {
+    "universityId": "cumt",
+    "universityName": "中国矿业大学",
+    "category": "保",
+    "records": [
+      {
+        "year": 2025,
+        "subject": "物理类",
+        "batch": "普通类",
+        "min_score": 596,
+        "min_rank": 10812
+      },
+      {
+        "year": 2024,
+        "subject": "理工",
+        "batch": "普通类",
+        "min_score": 573,
+        "min_rank": 15295
+      },
+      {
+        "year": 2023,
+        "subject": "理工",
+        "batch": "普通类",
+        "min_score": 559,
+        "min_rank": 14885
+      }
+    ],
+    "majors": []
+  },
+  "长安大学": {
+    "universityId": "chd",
+    "universityName": "长安大学",
+    "category": "保",
+    "records": [
+      {
+        "year": 2024,
+        "subject": "物理类",
+        "batch": "普通类/一本",
+        "min_score": 575,
+        "min_rank": 11500
+      },
+      {
+        "year": 2023,
+        "subject": "理科",
+        "batch": "普通类/一本",
+        "min_score": 572,
+        "min_rank": 12000
+      },
+      {
+        "year": 2022,
+        "subject": "理科",
+        "batch": "普通类/一本",
+        "min_score": 570,
+        "min_rank": 12300
+      }
+    ],
+    "majors": []
+  },
+  "太原理工大学": {
+    "universityId": "tyut",
+    "universityName": "太原理工大学",
+    "category": "保",
+    "records": [
+      {
+        "year": 2024,
+        "subject": "物理类",
+        "batch": "普通类/一本",
+        "min_score": 565,
+        "min_rank": 13000
+      },
+      {
+        "year": 2023,
+        "subject": "理科",
+        "batch": "普通类/一本",
+        "min_score": 562,
+        "min_rank": 13500
+      },
+      {
+        "year": 2022,
+        "subject": "理科",
+        "batch": "普通类/一本",
+        "min_score": 560,
+        "min_rank": 13800
+      }
+    ],
+    "majors": []
+  },
+  "贵州大学": {
+    "universityId": "gzu",
+    "universityName": "贵州大学",
+    "category": "保",
+    "records": [
+      {
+        "year": 2024,
+        "subject": "物理类",
+        "batch": "普通类/一本",
+        "min_score": 555,
+        "min_rank": 18000
+      },
+      {
+        "year": 2023,
+        "subject": "理科",
+        "batch": "普通类/一本",
+        "min_score": 552,
+        "min_rank": 18500
+      },
+      {
+        "year": 2022,
+        "subject": "理科",
+        "batch": "普通类/一本",
+        "min_score": 550,
+        "min_rank": 18800
+      }
+    ],
+    "majors": []
+  },
+  "广西大学": {
+    "universityId": "gxu",
+    "universityName": "广西大学",
+    "category": "保",
+    "records": [
+      {
+        "year": 2024,
+        "subject": "物理类",
+        "batch": "普通类/一本",
+        "min_score": 555,
+        "min_rank": 17000
+      },
+      {
+        "year": 2023,
+        "subject": "理科",
+        "batch": "普通类/一本",
+        "min_score": 552,
+        "min_rank": 17500
+      },
+      {
+        "year": 2022,
+        "subject": "理科",
+        "batch": "普通类/一本",
+        "min_score": 550,
+        "min_rank": 17800
+      }
+    ],
+    "majors": []
+  },
+  "海南大学": {
+    "universityId": "hainu",
+    "universityName": "海南大学",
+    "category": "保",
+    "records": [
+      {
+        "year": 2024,
+        "subject": "物理类",
+        "batch": "普通类/一本",
+        "min_score": 545,
+        "min_rank": 20000
+      },
+      {
+        "year": 2023,
+        "subject": "理科",
+        "batch": "普通类/一本",
+        "min_score": 542,
+        "min_rank": 20500
+      },
+      {
+        "year": 2022,
+        "subject": "理科",
+        "batch": "普通类/一本",
+        "min_score": 540,
+        "min_rank": 20800
+      }
+    ],
+    "majors": []
+  },
+  "宁夏大学": {
+    "universityId": "nxu",
+    "universityName": "宁夏大学",
+    "category": "保",
+    "records": [
+      {
+        "year": 2024,
+        "subject": "物理类",
+        "batch": "普通类/一本",
+        "min_score": 535,
+        "min_rank": 24000
+      },
+      {
+        "year": 2023,
+        "subject": "理科",
+        "batch": "普通类/一本",
+        "min_score": 532,
+        "min_rank": 24500
+      },
+      {
+        "year": 2022,
+        "subject": "理科",
+        "batch": "普通类/一本",
+        "min_score": 530,
+        "min_rank": 24800
+      }
+    ],
+    "majors": []
+  },
+  "青海大学": {
+    "universityId": "qhu",
+    "universityName": "青海大学",
+    "category": "保",
+    "records": [
+      {
+        "year": 2024,
+        "subject": "物理类",
+        "batch": "普通类/一本",
+        "min_score": 530,
+        "min_rank": 27500
+      },
+      {
+        "year": 2023,
+        "subject": "理科",
+        "batch": "普通类/一本",
+        "min_score": 527,
+        "min_rank": 28000
+      },
+      {
+        "year": 2022,
+        "subject": "理科",
+        "batch": "普通类/一本",
+        "min_score": 525,
+        "min_rank": 28300
+      }
+    ],
+    "majors": []
+  }
+}

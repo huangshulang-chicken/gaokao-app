@@ -1,0 +1,1196 @@
+{
+  "_说明": "请在下面的 schools 中填入各学校近三年在云南理科(物理类)的录取数据",
+  "_格式": "year: 年份, min_score: 最低分, min_rank: 最低位次, avg_score: 平均分(可选), batch: 批次(一本/二本/本科批)",
+  "schools": {
+    "四川大学": {
+      "category": "冲",
+      "estimated_rank_range": "4000-6000",
+      "estimated_score_range": "620-635",
+      "admission_data": [
+        {
+          "year": 2024,
+          "subject": "物理类",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2023,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2022,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        }
+      ]
+    },
+    "重庆大学": {
+      "category": "冲",
+      "estimated_rank_range": "4500-6500",
+      "estimated_score_range": "615-630",
+      "admission_data": [
+        {
+          "year": 2024,
+          "subject": "物理类",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2023,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2022,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        }
+      ]
+    },
+    "湖南大学": {
+      "category": "冲",
+      "estimated_rank_range": "5000-7000",
+      "estimated_score_range": "610-625",
+      "admission_data": [
+        {
+          "year": 2024,
+          "subject": "物理类",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2023,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2022,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        }
+      ]
+    },
+    "中南大学": {
+      "category": "冲",
+      "estimated_rank_range": "3500-5500",
+      "estimated_score_range": "620-640",
+      "admission_data": [
+        {
+          "year": 2024,
+          "subject": "物理类",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2023,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2022,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        }
+      ]
+    },
+    "东北大学": {
+      "category": "冲",
+      "estimated_rank_range": "5500-8000",
+      "estimated_score_range": "605-620",
+      "admission_data": [
+        {
+          "year": 2024,
+          "subject": "物理类",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2023,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2022,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        }
+      ]
+    },
+    "中国海洋大学": {
+      "category": "冲",
+      "estimated_rank_range": "6000-8500",
+      "estimated_score_range": "600-615",
+      "admission_data": [
+        {
+          "year": 2024,
+          "subject": "物理类",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2023,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2022,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        }
+      ]
+    },
+    "兰州大学": {
+      "category": "冲",
+      "estimated_rank_range": "6000-9000",
+      "estimated_score_range": "598-615",
+      "admission_data": [
+        {
+          "year": 2024,
+          "subject": "物理类",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2023,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2022,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        }
+      ]
+    },
+    "西北工业大学": {
+      "category": "冲",
+      "estimated_rank_range": "3000-5000",
+      "estimated_score_range": "625-645",
+      "admission_data": [
+        {
+          "year": 2024,
+          "subject": "物理类",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2023,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2022,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        }
+      ]
+    },
+    "西南交通大学": {
+      "category": "稳/冲",
+      "estimated_rank_range": "7000-11000",
+      "estimated_score_range": "590-610",
+      "admission_data": [
+        {
+          "year": 2024,
+          "subject": "物理类",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2023,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2022,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        }
+      ]
+    },
+    "武汉理工大学": {
+      "category": "稳/冲",
+      "estimated_rank_range": "7000-11000",
+      "estimated_score_range": "590-610",
+      "admission_data": [
+        {
+          "year": 2024,
+          "subject": "物理类",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2023,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2022,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        }
+      ]
+    },
+    "合肥工业大学": {
+      "category": "稳/冲",
+      "estimated_rank_range": "8000-12000",
+      "estimated_score_range": "585-605",
+      "admission_data": [
+        {
+          "year": 2024,
+          "subject": "物理类",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2023,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2022,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        }
+      ]
+    },
+    "河海大学": {
+      "category": "稳/冲",
+      "estimated_rank_range": "7000-11000",
+      "estimated_score_range": "590-610",
+      "admission_data": [
+        {
+          "year": 2024,
+          "subject": "物理类",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2023,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2022,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        }
+      ]
+    },
+    "江南大学": {
+      "category": "稳/冲",
+      "estimated_rank_range": "8000-12000",
+      "estimated_score_range": "585-605",
+      "admission_data": [
+        {
+          "year": 2024,
+          "subject": "物理类",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2023,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2022,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        }
+      ]
+    },
+    "中国矿业大学": {
+      "category": "稳/冲",
+      "estimated_rank_range": "9000-14000",
+      "estimated_score_range": "575-595",
+      "admission_data": [
+        {
+          "year": 2024,
+          "subject": "物理类",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2023,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2022,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        }
+      ]
+    },
+    "南京航空航天大学": {
+      "category": "稳/冲",
+      "estimated_rank_range": "5000-8000",
+      "estimated_score_range": "605-625",
+      "admission_data": [
+        {
+          "year": 2024,
+          "subject": "物理类",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2023,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2022,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        }
+      ]
+    },
+    "南京理工大学": {
+      "category": "稳/冲",
+      "estimated_rank_range": "5000-8000",
+      "estimated_score_range": "605-625",
+      "admission_data": [
+        {
+          "year": 2024,
+          "subject": "物理类",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2023,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2022,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        }
+      ]
+    },
+    "西安电子科技大学": {
+      "category": "稳/冲",
+      "estimated_rank_range": "5500-8500",
+      "estimated_score_range": "600-620",
+      "admission_data": [
+        {
+          "year": 2024,
+          "subject": "物理类",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2023,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2022,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        }
+      ]
+    },
+    "西南大学": {
+      "category": "稳/冲",
+      "estimated_rank_range": "8000-13000",
+      "estimated_score_range": "580-600",
+      "admission_data": [
+        {
+          "year": 2024,
+          "subject": "物理类",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2023,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2022,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        }
+      ]
+    },
+    "昆明理工大学": {
+      "category": "保/稳",
+      "estimated_rank_range": "15000-28000",
+      "estimated_score_range": "545-575",
+      "admission_data": [
+        {
+          "year": 2024,
+          "subject": "物理类",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2023,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2022,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        }
+      ]
+    },
+    "云南大学": {
+      "category": "保/稳",
+      "estimated_rank_range": "10000-18000",
+      "estimated_score_range": "565-590",
+      "admission_data": [
+        {
+          "year": 2024,
+          "subject": "物理类",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2023,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2022,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        }
+      ]
+    },
+    "贵州大学": {
+      "category": "保/稳",
+      "estimated_rank_range": "14000-22000",
+      "estimated_score_range": "550-575",
+      "admission_data": [
+        {
+          "year": 2024,
+          "subject": "物理类",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2023,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2022,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        }
+      ]
+    },
+    "广西大学": {
+      "category": "保/稳",
+      "estimated_rank_range": "13000-21000",
+      "estimated_score_range": "555-580",
+      "admission_data": [
+        {
+          "year": 2024,
+          "subject": "物理类",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2023,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2022,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        }
+      ]
+    },
+    "海南大学": {
+      "category": "保/稳",
+      "estimated_rank_range": "15000-25000",
+      "estimated_score_range": "545-570",
+      "admission_data": [
+        {
+          "year": 2024,
+          "subject": "物理类",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2023,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2022,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        }
+      ]
+    },
+    "宁夏大学": {
+      "category": "保/稳",
+      "estimated_rank_range": "18000-30000",
+      "estimated_score_range": "530-555",
+      "admission_data": [
+        {
+          "year": 2024,
+          "subject": "物理类",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2023,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2022,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        }
+      ]
+    },
+    "青海大学": {
+      "category": "保/稳",
+      "estimated_rank_range": "20000-35000",
+      "estimated_score_range": "520-545",
+      "admission_data": [
+        {
+          "year": 2024,
+          "subject": "物理类",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2023,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2022,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        }
+      ]
+    },
+    "石河子大学": {
+      "category": "保/稳",
+      "estimated_rank_range": "20000-35000",
+      "estimated_score_range": "520-545",
+      "admission_data": [
+        {
+          "year": 2024,
+          "subject": "物理类",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2023,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2022,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        }
+      ]
+    },
+    "云南财经大学": {
+      "category": "保/稳",
+      "estimated_rank_range": "25000-45000",
+      "estimated_score_range": "500-530",
+      "admission_data": [
+        {
+          "year": 2024,
+          "subject": "物理类",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2023,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2022,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        }
+      ]
+    },
+    "云南师范大学": {
+      "category": "保/稳",
+      "estimated_rank_range": "20000-40000",
+      "estimated_score_range": "510-540",
+      "admission_data": [
+        {
+          "year": 2024,
+          "subject": "物理类",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2023,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2022,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        }
+      ]
+    },
+    "云南民族大学": {
+      "category": "保/稳",
+      "estimated_rank_range": "30000-50000",
+      "estimated_score_range": "485-515",
+      "admission_data": [
+        {
+          "year": 2024,
+          "subject": "物理类",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2023,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2022,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        }
+      ]
+    },
+    "云南农业大学": {
+      "category": "保/稳",
+      "estimated_rank_range": "30000-50000",
+      "estimated_score_range": "485-515",
+      "admission_data": [
+        {
+          "year": 2024,
+          "subject": "物理类",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2023,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2022,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        }
+      ]
+    },
+    "南昌大学": {
+      "category": "稳",
+      "estimated_rank_range": "9000-14000",
+      "estimated_score_range": "575-595",
+      "admission_data": [
+        {
+          "year": 2024,
+          "subject": "物理类",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2023,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2022,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        }
+      ]
+    },
+    "福州大学": {
+      "category": "稳/冲",
+      "estimated_rank_range": "7000-11000",
+      "estimated_score_range": "590-610",
+      "admission_data": [
+        {
+          "year": 2024,
+          "subject": "物理类",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2023,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2022,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        }
+      ]
+    },
+    "郑州大学": {
+      "category": "稳",
+      "estimated_rank_range": "9000-14000",
+      "estimated_score_range": "575-595",
+      "admission_data": [
+        {
+          "year": 2024,
+          "subject": "物理类",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2023,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2022,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        }
+      ]
+    },
+    "长安大学": {
+      "category": "稳",
+      "estimated_rank_range": "9000-14000",
+      "estimated_score_range": "575-595",
+      "admission_data": [
+        {
+          "year": 2024,
+          "subject": "物理类",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2023,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2022,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        }
+      ]
+    },
+    "太原理工大学": {
+      "category": "稳",
+      "estimated_rank_range": "10000-16000",
+      "estimated_score_range": "565-590",
+      "admission_data": [
+        {
+          "year": 2024,
+          "subject": "物理类",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2023,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        },
+        {
+          "year": 2022,
+          "subject": "理科",
+          "batch": "",
+          "min_score": 0,
+          "min_rank": 0,
+          "avg_score": 0,
+          "plan_count": 0
+        }
+      ]
+    }
+  }
+}

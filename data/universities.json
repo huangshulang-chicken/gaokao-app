@@ -1,0 +1,5120 @@
+[
+  {
+    "id": "tsinghua-university",
+    "name": "清华大学",
+    "nameEn": "Tsinghua University",
+    "province": "北京",
+    "category": "综合",
+    "tags": [
+      "双一流",
+      "985",
+      "211"
+    ]
+  },
+  {
+    "id": "peking-university",
+    "name": "北京大学",
+    "nameEn": "Peking University",
+    "province": "北京",
+    "category": "综合",
+    "tags": [
+      "双一流",
+      "985",
+      "211"
+    ]
+  },
+  {
+    "id": "zhejiang-university",
+    "name": "浙江大学",
+    "nameEn": "Zhejiang University",
+    "province": "浙江",
+    "category": "综合",
+    "tags": [
+      "双一流",
+      "985",
+      "211"
+    ]
+  },
+  {
+    "id": "shanghai-jiao-tong-university",
+    "name": "上海交通大学",
+    "nameEn": "Shanghai Jiao Tong University",
+    "province": "上海",
+    "category": "综合",
+    "tags": [
+      "双一流",
+      "985",
+      "211"
+    ]
+  },
+  {
+    "id": "fudan-university",
+    "name": "复旦大学",
+    "nameEn": "Fudan University",
+    "province": "上海",
+    "category": "综合",
+    "tags": [
+      "双一流",
+      "985",
+      "211"
+    ]
+  },
+  {
+    "id": "nanjing-university",
+    "name": "南京大学",
+    "nameEn": "Nanjing University",
+    "province": "江苏",
+    "category": "综合",
+    "tags": [
+      "双一流",
+      "985",
+      "211"
+    ]
+  },
+  {
+    "id": "university-of-science-and-technology-of-china",
+    "name": "中国科学技术大学",
+    "nameEn": "University of Science and Technology of China",
+    "province": "安徽",
+    "category": "理工",
+    "tags": [
+      "双一流",
+      "985",
+      "211"
+    ]
+  },
+  {
+    "id": "huazhong-university-of-science-and-technology",
+    "name": "华中科技大学",
+    "nameEn": "Huazhong University of Science and Technology",
+    "province": "湖北",
+    "category": "综合",
+    "tags": [
+      "双一流",
+      "985",
+      "211"
+    ]
+  },
+  {
+    "id": "wuhan-university",
+    "name": "武汉大学",
+    "nameEn": "Wuhan University",
+    "province": "湖北",
+    "category": "综合",
+    "tags": [
+      "双一流",
+      "985",
+      "211"
+    ]
+  },
+  {
+    "id": "xian-jiaotong-university",
+    "name": "西安交通大学",
+    "nameEn": "Xi'an Jiaotong University",
+    "province": "陕西",
+    "category": "综合",
+    "tags": [
+      "双一流",
+      "985",
+      "211"
+    ]
+  },
+  {
+    "id": "sichuan-university",
+    "name": "四川大学",
+    "nameEn": "Sichuan University",
+    "province": "四川",
+    "category": "综合",
+    "tags": [
+      "双一流",
+      "985",
+      "211"
+    ]
+  },
+  {
+    "id": "sun-yat-sen-university",
+    "name": "中山大学",
+    "nameEn": "Sun Yat-sen University",
+    "province": "广东",
+    "category": "综合",
+    "tags": [
+      "双一流",
+      "985",
+      "211"
+    ]
+  },
+  {
+    "id": "harbin-institute-of-technology",
+    "name": "哈尔滨工业大学",
+    "nameEn": "Harbin Institute of Technology",
+    "province": "黑龙江",
+    "category": "理工",
+    "tags": [
+      "双一流",
+      "985",
+      "211"
+    ]
+  },
+  {
+    "id": "tongji-university",
+    "name": "同济大学",
+    "nameEn": "Tongji University",
+    "province": "上海",
+    "category": "理工",
+    "tags": [
+      "双一流",
+      "985",
+      "211"
+    ]
+  },
+  {
+    "id": "beihang-university",
+    "name": "北京航空航天大学",
+    "nameEn": "Beihang University",
+    "province": "北京",
+    "category": "理工",
+    "tags": [
+      "双一流",
+      "985",
+      "211"
+    ]
+  },
+  {
+    "id": "southeast-university",
+    "name": "东南大学",
+    "nameEn": "Southeast University",
+    "province": "江苏",
+    "category": "综合",
+    "tags": [
+      "双一流",
+      "985",
+      "211"
+    ]
+  },
+  {
+    "id": "beijing-normal-university",
+    "name": "北京师范大学",
+    "nameEn": "Beijing Normal University",
+    "province": "北京",
+    "category": "师范",
+    "tags": [
+      "双一流",
+      "985",
+      "211"
+    ]
+  },
+  {
+    "id": "beijing-institute-of-technology",
+    "name": "北京理工大学",
+    "nameEn": "Beijing Institute of Technology",
+    "province": "北京",
+    "category": "理工",
+    "tags": [
+      "双一流",
+      "985",
+      "211"
+    ]
+  },
+  {
+    "id": "renmin-university-of-china",
+    "name": "中国人民大学",
+    "nameEn": "Renmin University of China",
+    "province": "北京",
+    "category": "综合",
+    "tags": [
+      "双一流",
+      "985",
+      "211"
+    ]
+  },
+  {
+    "id": "nankai-university",
+    "name": "南开大学",
+    "nameEn": "Nankai University",
+    "province": "天津",
+    "category": "综合",
+    "tags": [
+      "双一流",
+      "985",
+      "211"
+    ]
+  },
+  {
+    "id": "tianjin-university",
+    "name": "天津大学",
+    "nameEn": "Tianjin University",
+    "province": "天津",
+    "category": "理工",
+    "tags": [
+      "双一流",
+      "985",
+      "211"
+    ]
+  },
+  {
+    "id": "shandong-university",
+    "name": "山东大学",
+    "nameEn": "Shandong University",
+    "province": "山东",
+    "category": "综合",
+    "tags": [
+      "双一流",
+      "985",
+      "211"
+    ]
+  },
+  {
+    "id": "central-south-university",
+    "name": "中南大学",
+    "nameEn": "Central South University",
+    "province": "湖南",
+    "category": "综合",
+    "tags": [
+      "双一流",
+      "985",
+      "211"
+    ]
+  },
+  {
+    "id": "northwestern-polytechnical-university",
+    "name": "西北工业大学",
+    "nameEn": "Northwestern Polytechnical University",
+    "province": "陕西",
+    "category": "理工",
+    "tags": [
+      "双一流",
+      "985",
+      "211"
+    ]
+  },
+  {
+    "id": "south-china-university-of-technology",
+    "name": "华南理工大学",
+    "nameEn": "South China University of Technology",
+    "province": "广东",
+    "category": "理工",
+    "tags": [
+      "双一流",
+      "985",
+      "211"
+    ]
+  },
+  {
+    "id": "xiamen-university",
+    "name": "厦门大学",
+    "nameEn": "Xiamen University",
+    "province": "福建",
+    "category": "综合",
+    "tags": [
+      "双一流",
+      "985",
+      "211"
+    ]
+  },
+  {
+    "id": "jilin-university",
+    "name": "吉林大学",
+    "nameEn": "Jilin University",
+    "province": "吉林",
+    "category": "综合",
+    "tags": [
+      "双一流",
+      "985",
+      "211"
+    ]
+  },
+  {
+    "id": "east-china-normal-university",
+    "name": "华东师范大学",
+    "nameEn": "East China Normal University",
+    "province": "上海",
+    "category": "师范",
+    "tags": [
+      "双一流",
+      "985",
+      "211"
+    ]
+  },
+  {
+    "id": "china-agricultural-university",
+    "name": "中国农业大学",
+    "nameEn": "China Agricultural University",
+    "province": "北京",
+    "category": "农业",
+    "tags": [
+      "双一流",
+      "985",
+      "211"
+    ]
+  },
+  {
+    "id": "university-of-electronic-science-and-technology-of-china",
+    "name": "电子科技大学",
+    "nameEn": "University of Electronic Science and Technology of China",
+    "province": "四川",
+    "category": "理工",
+    "tags": [
+      "双一流",
+      "985",
+      "211"
+    ]
+  },
+  {
+    "id": "dalian-university-of-technology",
+    "name": "大连理工大学",
+    "nameEn": "Dalian University of Technology",
+    "province": "辽宁",
+    "category": "理工",
+    "tags": [
+      "双一流",
+      "985",
+      "211"
+    ]
+  },
+  {
+    "id": "hunan-university",
+    "name": "湖南大学",
+    "nameEn": "Hunan University",
+    "province": "湖南",
+    "category": "综合",
+    "tags": [
+      "双一流",
+      "985",
+      "211"
+    ]
+  },
+  {
+    "id": "nanjing-university-of-science-and-technology",
+    "name": "南京理工大学",
+    "nameEn": "Nanjing University of Science and Technology",
+    "province": "江苏",
+    "category": "理工",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "chongqing-university",
+    "name": "重庆大学",
+    "nameEn": "Chongqing University",
+    "province": "重庆",
+    "category": "综合",
+    "tags": [
+      "双一流",
+      "985",
+      "211"
+    ]
+  },
+  {
+    "id": "southern-university-of-science-and-technology",
+    "name": "南方科技大学",
+    "nameEn": "Southern University of Science and Technology",
+    "province": "广东",
+    "category": "综合",
+    "tags": [
+      "双一流"
+    ]
+  },
+  {
+    "id": "university-of-science-and-technology-beijing",
+    "name": "北京科技大学",
+    "nameEn": "University of Science and Technology Beijing",
+    "province": "北京",
+    "category": "理工",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "nanjing-university-of-aeronautics-and-astronautics",
+    "name": "南京航空航天大学",
+    "nameEn": "Nanjing University of Aeronautics and Astronautics",
+    "province": "江苏",
+    "category": "理工",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "lanzhou-university",
+    "name": "兰州大学",
+    "nameEn": "Lanzhou University",
+    "province": "甘肃",
+    "category": "综合",
+    "tags": [
+      "双一流",
+      "985",
+      "211"
+    ]
+  },
+  {
+    "id": "northeastern-university",
+    "name": "东北大学",
+    "nameEn": "Northeastern University",
+    "province": "辽宁",
+    "category": "理工",
+    "tags": [
+      "双一流",
+      "985",
+      "211"
+    ]
+  },
+  {
+    "id": "beijing-jiaotong-university",
+    "name": "北京交通大学",
+    "nameEn": "Beijing jiaotong University",
+    "province": "北京",
+    "category": "理工",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "xidian-university",
+    "name": "西安电子科技大学",
+    "nameEn": "Xidian University",
+    "province": "陕西",
+    "category": "理工",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "huazhong-agricultural-university",
+    "name": "华中农业大学",
+    "nameEn": "Huazhong Agricultural University",
+    "province": "湖北",
+    "category": "农业",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "soochow-university-china",
+    "name": "苏州大学",
+    "nameEn": "Soochow University",
+    "province": "江苏",
+    "category": "综合",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "northeast-normal-university",
+    "name": "东北师范大学",
+    "nameEn": "Northeast Normal University",
+    "province": "吉林",
+    "category": "师范",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "east-china-university-of-science-and-technology",
+    "name": "华东理工大学",
+    "nameEn": "East China University of Science and Technology",
+    "province": "上海",
+    "category": "理工",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "shanghai-university",
+    "name": "上海大学",
+    "nameEn": "Shanghai University",
+    "province": "上海",
+    "category": "综合",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "jinan-university",
+    "name": "暨南大学",
+    "nameEn": "Jinan University",
+    "province": "广东",
+    "category": "综合",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "china-university-of-petroleum-beijing",
+    "name": "中国石油大学（北京）",
+    "nameEn": "China University of Petroleum, Beijing",
+    "province": "北京",
+    "category": "理工",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "nanjing-agricultural-university",
+    "name": "南京农业大学",
+    "nameEn": "Nanjing Agricultural University",
+    "province": "江苏",
+    "category": "农业",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "central-china-normal-university",
+    "name": "华中师范大学",
+    "nameEn": "Central China Normal University",
+    "province": "湖北",
+    "category": "师范",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "zhengzhou-university",
+    "name": "郑州大学",
+    "nameEn": "Zhengzhou University",
+    "province": "河南",
+    "category": "综合",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "southwest-jiaotong-university",
+    "name": "西南交通大学",
+    "nameEn": "Southwest Jiaotong University",
+    "province": "四川",
+    "category": "理工",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "harbin-engineering-university",
+    "name": "哈尔滨工程大学",
+    "nameEn": "Harbin Engineering University",
+    "province": "黑龙江",
+    "category": "理工",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "china-university-of-mining-and-technology-xuzhou",
+    "name": "中国矿业大学",
+    "nameEn": "China University of Mining and Technology",
+    "province": "江苏",
+    "category": "理工",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "shanghaitech-university",
+    "name": "上海科技大学",
+    "nameEn": "ShanghaiTech University",
+    "province": "上海",
+    "category": "综合",
+    "tags": [
+      "双一流"
+    ]
+  },
+  {
+    "id": "wuhan-university-of-technology",
+    "name": "武汉理工大学",
+    "nameEn": "Wuhan University of Technology",
+    "province": "湖北",
+    "category": "理工",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "ocean-university-of-china",
+    "name": "中国海洋大学",
+    "nameEn": "Ocean University of China",
+    "province": "山东",
+    "category": "综合",
+    "tags": [
+      "双一流",
+      "985",
+      "211"
+    ]
+  },
+  {
+    "id": "china-university-of-geosciences-wuhan",
+    "name": "中国地质大学（武汉）",
+    "nameEn": "China University of Geosciences",
+    "province": "湖北",
+    "category": "理工",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "jiangnan-university",
+    "name": "江南大学",
+    "nameEn": "Jiangnan University",
+    "province": "江苏",
+    "category": "综合",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "hohai-university",
+    "name": "河海大学",
+    "nameEn": "Hohai University",
+    "province": "江苏",
+    "category": "理工",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "nanjing-normal-university",
+    "name": "南京师范大学",
+    "nameEn": "Nanjing Normal University",
+    "province": "江苏",
+    "category": "师范",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "beijing-university-of-posts-and-telecommunications",
+    "name": "北京邮电大学",
+    "nameEn": "Beijing University of Posts and Telecommunications",
+    "province": "北京",
+    "category": "理工",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "beijing-university-of-technology",
+    "name": "北京工业大学",
+    "nameEn": "Beijing University of Technology",
+    "province": "北京",
+    "category": "理工",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "beijing-university-of-chemical-technology",
+    "name": "北京化工大学",
+    "nameEn": "Beijing University of Chemical Technology",
+    "province": "北京",
+    "category": "理工",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "china-university-of-petroleum-huadong",
+    "name": "中国石油大学（华东）",
+    "nameEn": "China University of Petroleum (East China)",
+    "province": "山东",
+    "category": "理工",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "zhejiang-university-of-technology",
+    "name": "浙江工业大学",
+    "nameEn": "Zhejiang University of Technology",
+    "province": "浙江",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "northwest-university",
+    "name": "西北大学",
+    "nameEn": "Northwest University",
+    "province": "陕西",
+    "category": "综合",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "shenzhen-university",
+    "name": "深圳大学",
+    "nameEn": "Shenzhen University",
+    "province": "广东",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "southwest-university",
+    "name": "西南大学",
+    "nameEn": "Southwest University",
+    "province": "重庆",
+    "category": "综合",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "china-university-of-geosciences-beijing",
+    "name": "中国地质大学（北京）",
+    "nameEn": "China University of Geosciences Beijing",
+    "province": "北京",
+    "category": "理工",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "shaanxi-normal-university",
+    "name": "陕西师范大学",
+    "nameEn": "Shaanxi Normal University",
+    "province": "陕西",
+    "category": "师范",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "fuzhou-university",
+    "name": "福州大学",
+    "nameEn": "Fuzhou University",
+    "province": "福建",
+    "category": "理工",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "jiangsu-university",
+    "name": "江苏大学",
+    "nameEn": "Jiangsu University",
+    "province": "江苏",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "northwest-a-f-university",
+    "name": "西北农林科技大学",
+    "nameEn": "Northwest A&F University",
+    "province": "陕西",
+    "category": "农业",
+    "tags": [
+      "双一流",
+      "985",
+      "211"
+    ]
+  },
+  {
+    "id": "nanchang-university",
+    "name": "南昌大学",
+    "nameEn": "Nanchang University",
+    "province": "江西",
+    "category": "综合",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "north-china-electric-power-university",
+    "name": "华北电力大学",
+    "nameEn": "North China Electric Power University",
+    "province": "北京",
+    "category": "理工",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "china-university-of-mining-and-technology-beijing",
+    "name": "中国矿业大学（北京）",
+    "nameEn": "China University of Mining & Technology-Beijing",
+    "province": "北京",
+    "category": "理工",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "south-china-normal-university",
+    "name": "华南师范大学",
+    "nameEn": "South China Normal University",
+    "province": "广东",
+    "category": "师范",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "yangzhou-university",
+    "name": "扬州大学",
+    "nameEn": "Yangzhou University",
+    "province": "江苏",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "donghua-university",
+    "name": "东华大学",
+    "nameEn": "Donghua University",
+    "province": "上海",
+    "category": "理工",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "beijing-forestry-university",
+    "name": "北京林业大学",
+    "nameEn": "Beijing Forestry University",
+    "province": "北京",
+    "category": "林业",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "yunnan-university",
+    "name": "云南大学",
+    "nameEn": "Yunnan University",
+    "province": "云南",
+    "category": "综合",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "hefei-university-of-technology",
+    "name": "合肥工业大学",
+    "nameEn": "Hefei University of Technology",
+    "province": "安徽",
+    "category": "理工",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "nanjing-tech-university",
+    "name": "南京工业大学",
+    "nameEn": "Nanjing Tech University",
+    "province": "江苏",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "ningbo-university",
+    "name": "宁波大学",
+    "nameEn": "Ningbo University",
+    "province": "浙江",
+    "category": "综合",
+    "tags": [
+      "双一流"
+    ]
+  },
+  {
+    "id": "capital-normal-university",
+    "name": "首都师范大学",
+    "nameEn": "Capital Normal University",
+    "province": "北京",
+    "category": "师范",
+    "tags": [
+      "双一流"
+    ]
+  },
+  {
+    "id": "fujian-normal-university",
+    "name": "福建师范大学",
+    "nameEn": "Fujian Normal University",
+    "province": "福建",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "hunan-normal-university",
+    "name": "湖南师范大学",
+    "nameEn": "Hunan Normal University",
+    "province": "湖南",
+    "category": "师范",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "changan-university",
+    "name": "长安大学",
+    "nameEn": "Chang'an University",
+    "province": "陕西",
+    "category": "理工",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "south-china-agricultural-university",
+    "name": "华南农业大学",
+    "nameEn": "South China Agricultural University",
+    "province": "广东",
+    "category": "农业",
+    "tags": [
+      "双一流"
+    ]
+  },
+  {
+    "id": "guangzhou-university",
+    "name": "广州大学",
+    "nameEn": "Guangzhou University",
+    "province": "广东",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "nanjing-university-of-posts-and-telecommunications",
+    "name": "南京邮电大学",
+    "nameEn": "Nanjing University of Posts and Telecommunications",
+    "province": "江苏",
+    "category": "理工",
+    "tags": [
+      "双一流"
+    ]
+  },
+  {
+    "id": "yanshan-university",
+    "name": "燕山大学",
+    "nameEn": "Yanshan University",
+    "province": "河北",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "hangzhou-dianzi-university",
+    "name": "杭州电子科技大学",
+    "nameEn": "Hangzhou Dianzi University",
+    "province": "浙江",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "anhui-university",
+    "name": "安徽大学",
+    "nameEn": "Anhui University",
+    "province": "安徽",
+    "category": "综合",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "henan-university",
+    "name": "河南大学",
+    "nameEn": "Henan University",
+    "province": "河南",
+    "category": "综合",
+    "tags": [
+      "双一流"
+    ]
+  },
+  {
+    "id": "nanjing-university-of-information-science-technology",
+    "name": "南京信息工程大学",
+    "nameEn": "Nanjing University of Information Science & Technology",
+    "province": "江苏",
+    "category": "综合",
+    "tags": [
+      "双一流"
+    ]
+  },
+  {
+    "id": "zhejiang-normal-university",
+    "name": "浙江师范大学",
+    "nameEn": "Zhejiang Normal University",
+    "province": "浙江",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "guangxi-university",
+    "name": "广西大学",
+    "nameEn": "Guangxi University",
+    "province": "广西",
+    "category": "综合",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "university-of-shanghai-for-science-and-technology",
+    "name": "上海理工大学",
+    "nameEn": "University of Shanghai for Science and Technology",
+    "province": "上海",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "shandong-normal-university",
+    "name": "山东师范大学",
+    "nameEn": "Shandong Normal University",
+    "province": "山东",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "guangdong-university-of-technology",
+    "name": "广东工业大学",
+    "nameEn": "Guangdong University of Technology",
+    "province": "广东",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "hebei-university-of-technology",
+    "name": "河北工业大学",
+    "nameEn": "Hebei University of Technology",
+    "province": "天津",
+    "category": "理工",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "qingdao-university",
+    "name": "青岛大学",
+    "nameEn": "Qingdao University",
+    "province": "山东",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "shanghai-normal-university",
+    "name": "上海师范大学",
+    "nameEn": "Shanghai Normal University",
+    "province": "上海",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "xiangtan-university",
+    "name": "湘潭大学",
+    "nameEn": "Xiangtan University",
+    "province": "湖南",
+    "category": "综合",
+    "tags": [
+      "双一流"
+    ]
+  },
+  {
+    "id": "wuhan-university-of-science-and-technology",
+    "name": "武汉科技大学",
+    "nameEn": "Wuhan University of Science and Technology",
+    "province": "湖北",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "hubei-university",
+    "name": "湖北大学",
+    "nameEn": "Hubei University",
+    "province": "湖北",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "nanjing-forestry-university",
+    "name": "南京林业大学",
+    "nameEn": "Nanjing Forestry University",
+    "province": "江苏",
+    "category": "林业",
+    "tags": [
+      "双一流"
+    ]
+  },
+  {
+    "id": "dalian-maritime-university",
+    "name": "大连海事大学",
+    "nameEn": "Dalian Maritime University",
+    "province": "辽宁",
+    "category": "理工",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "shanxi-university",
+    "name": "山西大学",
+    "nameEn": "Shanxi University",
+    "province": "山西",
+    "category": "综合",
+    "tags": [
+      "双一流"
+    ]
+  },
+  {
+    "id": "zhejiang-sci-tech-university",
+    "name": "浙江理工大学",
+    "nameEn": "Zhejiang Sci-Tech University",
+    "province": "浙江",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "taiyuan-university-of-technology",
+    "name": "太原理工大学",
+    "nameEn": "Taiyuan University of Technology",
+    "province": "山西",
+    "category": "理工",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "northeast-forestry-university-china",
+    "name": "东北林业大学",
+    "nameEn": "Northeast Forestry University",
+    "province": "黑龙江",
+    "category": "林业",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "changsha-university-of-science-and-technology",
+    "name": "长沙理工大学",
+    "nameEn": "Changsha University of Science and Technology",
+    "province": "湖南",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "xian-university-of-technology",
+    "name": "西安理工大学",
+    "nameEn": "Xi'an University of Technology",
+    "province": "陕西",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "northeast-agricultural-university-china",
+    "name": "东北农业大学",
+    "nameEn": "Northeast Agricultural University",
+    "province": "黑龙江",
+    "category": "农业",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "jiangxi-normal-university",
+    "name": "江西师范大学",
+    "nameEn": "Jiangxi Normal University",
+    "province": "江西",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "inner-mongolia-university",
+    "name": "内蒙古大学",
+    "nameEn": "Inner Mongolia University",
+    "province": "内蒙古",
+    "category": "综合",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "hebei-university",
+    "name": "河北大学",
+    "nameEn": "Hebei University",
+    "province": "河北",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "fujian-agriculture-and-forestry-university",
+    "name": "福建农林大学",
+    "nameEn": "Fujian Agriculture and Forestry University",
+    "province": "福建",
+    "category": "农业",
+    "tags": []
+  },
+  {
+    "id": "hangzhou-normal-university",
+    "name": "杭州师范大学",
+    "nameEn": "Hangzhou Normal University",
+    "province": "浙江",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "shandong-university-of-science-and-technology",
+    "name": "山东科技大学",
+    "nameEn": "Shandong University of Science and Technology",
+    "province": "山东",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "xian-university-of-architecture-and-technology",
+    "name": "西安建筑科技大学",
+    "nameEn": "Xi'an University of Architecture and Technology",
+    "province": "陕西",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "anhui-normal-university",
+    "name": "安徽师范大学",
+    "nameEn": "Anhui Normal University",
+    "province": "安徽",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "guizhou-university",
+    "name": "贵州大学",
+    "nameEn": "Guizhou University",
+    "province": "贵州",
+    "category": "综合",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "liaoning-university",
+    "name": "辽宁大学",
+    "nameEn": "Liaoning University",
+    "province": "辽宁",
+    "category": "综合",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "henan-normal-university",
+    "name": "河南师范大学",
+    "nameEn": "Henan Normal University",
+    "province": "河南",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "southwest-petroleum-university",
+    "name": "西南石油大学",
+    "nameEn": "Southwest Petroleum University",
+    "province": "四川",
+    "category": "理工",
+    "tags": [
+      "双一流"
+    ]
+  },
+  {
+    "id": "hainan-university",
+    "name": "海南大学",
+    "nameEn": "Hainan University",
+    "province": "海南",
+    "category": "综合",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "china-jiliang-university",
+    "name": "中国计量大学",
+    "nameEn": "China Jiliang University",
+    "province": "浙江",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "shaanxi-university-of-science-and-technology",
+    "name": "陕西科技大学",
+    "nameEn": "Shaanxi University of Science and Technology",
+    "province": "陕西",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "beijing-university-of-civil-engineering-and-architecture",
+    "name": "北京建筑大学",
+    "nameEn": "Beijing University of Civil Engineering and Architecture",
+    "province": "北京",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "jiangsu-normal-university",
+    "name": "江苏师范大学",
+    "nameEn": "Jiangsu Normal University",
+    "province": "江苏",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "huaqiao-university",
+    "name": "华侨大学",
+    "nameEn": "Huaqiao University",
+    "province": "福建",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "heilongjiang-university",
+    "name": "黑龙江大学",
+    "nameEn": "Heilongjiang University",
+    "province": "黑龙江",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "shandong-agricultural-university",
+    "name": "山东农业大学",
+    "nameEn": "Shandong Agricultural University",
+    "province": "山东",
+    "category": "农业",
+    "tags": []
+  },
+  {
+    "id": "qilu-university-of-technology",
+    "name": "齐鲁工业大学",
+    "nameEn": "Qilu University of Technology",
+    "province": "山东",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "kunming-university-of-science-and-technology",
+    "name": "昆明理工大学",
+    "nameEn": "Kunming University of Science and Technology",
+    "province": "云南",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "henan-agricultural-university",
+    "name": "河南农业大学",
+    "nameEn": "Henan Agricultural University",
+    "province": "河南",
+    "category": "农业",
+    "tags": []
+  },
+  {
+    "id": "shantou-university",
+    "name": "汕头大学",
+    "nameEn": "Shantou University",
+    "province": "广东",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "changchun-university-of-science-and-technology",
+    "name": "长春理工大学",
+    "nameEn": "Changchun University of Science and Technology",
+    "province": "吉林",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "hubei-university-of-technology",
+    "name": "湖北工业大学",
+    "nameEn": "Hubei University of Technology",
+    "province": "湖北",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "wenzhou-university",
+    "name": "温州大学",
+    "nameEn": "Wenzhou University",
+    "province": "浙江",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "university-of-jinan",
+    "name": "济南大学",
+    "nameEn": "University of Jinan",
+    "province": "山东",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "sichuan-agricultural-university",
+    "name": "四川农业大学",
+    "nameEn": "Sichuan Agricultural University",
+    "province": "四川",
+    "category": "农业",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "jiangsu-university-of-science-and-technology",
+    "name": "江苏科技大学",
+    "nameEn": "Jiangsu University of Science and Technology",
+    "province": "江苏",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "tianjin-normal-university",
+    "name": "天津师范大学",
+    "nameEn": "Tianjin Normal University",
+    "province": "天津",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "shenyang-agricultural-university",
+    "name": "沈阳农业大学",
+    "nameEn": "Shenyang Agricultural University",
+    "province": "辽宁",
+    "category": "农业",
+    "tags": []
+  },
+  {
+    "id": "anhui-agricultural-university",
+    "name": "安徽农业大学",
+    "nameEn": "Anhui Agricultural University",
+    "province": "安徽",
+    "category": "农业",
+    "tags": []
+  },
+  {
+    "id": "chongqing-university-of-posts-and-telecommunications",
+    "name": "重庆邮电大学",
+    "nameEn": "Chongqing University of Posts and Telecommunications",
+    "province": "重庆",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "zhejiang-a-f-university",
+    "name": "浙江农林大学",
+    "nameEn": "Zhejiang A&F University",
+    "province": "浙江",
+    "category": "林业",
+    "tags": []
+  },
+  {
+    "id": "liaoning-normal-university",
+    "name": "辽宁师范大学",
+    "nameEn": "Liaoning Normal University",
+    "province": "辽宁",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "northwest-normal-university-china",
+    "name": "西北师范大学",
+    "nameEn": "Northwest Normal University China",
+    "province": "甘肃",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "henan-university-of-science-and-technology",
+    "name": "河南科技大学",
+    "nameEn": "Henan University of Science and Technology",
+    "province": "河南",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "wuhan-institute-of-technology",
+    "name": "武汉工程大学",
+    "nameEn": "Wuhan Institute of Technology",
+    "province": "湖北",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "shihezi-university",
+    "name": "石河子大学",
+    "nameEn": "Shihezi University",
+    "province": "新疆",
+    "category": "综合",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "changzhou-university",
+    "name": "常州大学",
+    "nameEn": "Changzhou University",
+    "province": "江苏",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "shanghai-maritime-university",
+    "name": "上海海事大学",
+    "nameEn": "Shanghai Maritime University",
+    "province": "上海",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "qingdao-university-of-science-and-technology",
+    "name": "青岛科技大学",
+    "nameEn": "Qingdao University of Science and Technology",
+    "province": "山东",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "jilin-agricultural-university",
+    "name": "吉林农业大学",
+    "nameEn": "Jilin Agricultural University",
+    "province": "吉林",
+    "category": "农业",
+    "tags": []
+  },
+  {
+    "id": "hebei-normal-university",
+    "name": "河北师范大学",
+    "nameEn": "Hebei Normal University",
+    "province": "河北",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "anhui-university-of-technology",
+    "name": "安徽工业大学",
+    "nameEn": "Anhui University of Technology",
+    "province": "安徽",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "qufu-normal-university",
+    "name": "曲阜师范大学",
+    "nameEn": "Qufu Normal University",
+    "province": "山东",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "xinjiang-university",
+    "name": "新疆大学",
+    "nameEn": "Xinjiang University",
+    "province": "新疆",
+    "category": "综合",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "tiangong-university",
+    "name": "天津工业大学",
+    "nameEn": "Tiangong University",
+    "province": "天津",
+    "category": "理工",
+    "tags": [
+      "双一流"
+    ]
+  },
+  {
+    "id": "ningxia-university",
+    "name": "宁夏大学",
+    "nameEn": "Ningxia University",
+    "province": "宁夏",
+    "category": "综合",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "hunan-agricultural-university",
+    "name": "湖南农业大学",
+    "nameEn": "Hunan Agricultural University",
+    "province": "湖南",
+    "category": "农业",
+    "tags": []
+  },
+  {
+    "id": "nantong-university",
+    "name": "南通大学",
+    "nameEn": "Nantong University",
+    "province": "江苏",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "shanghai-ocean-university",
+    "name": "上海海洋大学",
+    "nameEn": "Shanghai Ocean University",
+    "province": "上海",
+    "category": "农业",
+    "tags": [
+      "双一流"
+    ]
+  },
+  {
+    "id": "guangxi-normal-university",
+    "name": "广西师范大学",
+    "nameEn": "Guangxi Normal University",
+    "province": "广西",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "china-three-gorges-university",
+    "name": "三峡大学",
+    "nameEn": "China Three Gorges University",
+    "province": "湖北",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "chengdu-university-of-technology",
+    "name": "成都理工大学",
+    "nameEn": "Chengdu University of Technology",
+    "province": "四川",
+    "category": "理工",
+    "tags": [
+      "双一流"
+    ]
+  },
+  {
+    "id": "yangtze-university",
+    "name": "长江大学",
+    "nameEn": "Yangtze University",
+    "province": "湖北",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "shandong-university-of-technology",
+    "name": "山东理工大学",
+    "nameEn": "Shandong University of Technology",
+    "province": "山东",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "henan-polytechnic-university",
+    "name": "河南理工大学",
+    "nameEn": "Henan Polytechnic University",
+    "province": "河南",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "north-china-university-of-technology",
+    "name": "北方工业大学",
+    "nameEn": "North China University of Technology",
+    "province": "北京",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "jiangxi-university-of-science-and-technology",
+    "name": "江西理工大学",
+    "nameEn": "Jiangxi University of Science and Technology",
+    "province": "江西",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "xian-university-of-science-and-technology",
+    "name": "西安科技大学",
+    "nameEn": "Xi'an University of Science and Technology",
+    "province": "陕西",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "jimei-university",
+    "name": "集美大学",
+    "nameEn": "Jimei University",
+    "province": "福建",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "nanchang-hangkong-university",
+    "name": "南昌航空大学",
+    "nameEn": "Nanchang Hangkong University",
+    "province": "江西",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "qinghai-university",
+    "name": "青海大学",
+    "nameEn": "Qinghai University",
+    "province": "青海",
+    "category": "综合",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "shijiazhuang-tiedao-university",
+    "name": "石家庄铁道大学",
+    "nameEn": "Shijiazhuang Tiedao University",
+    "province": "河北",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "anhui-university-of-science-and-technology",
+    "name": "安徽理工大学",
+    "nameEn": "Anhui University of Science and Technology",
+    "province": "安徽",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "yanbian-university",
+    "name": "延边大学",
+    "nameEn": "Yanbian University",
+    "province": "吉林",
+    "category": "综合",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "zhejiang-ocean-university",
+    "name": "浙江海洋大学",
+    "nameEn": "Zhejiang Ocean University",
+    "province": "浙江",
+    "category": "农业",
+    "tags": []
+  },
+  {
+    "id": "shanghai-university-of-electric-power",
+    "name": "上海电力大学",
+    "nameEn": "Shanghai University of Electric Power",
+    "province": "上海",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "north-university-of-china",
+    "name": "中北大学",
+    "nameEn": "North University of China",
+    "province": "山西",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "tibet-university",
+    "name": "西藏大学",
+    "nameEn": "Tibet University",
+    "province": "西藏",
+    "category": "综合",
+    "tags": [
+      "双一流",
+      "211"
+    ]
+  },
+  {
+    "id": "chongqing-jiaotong-university",
+    "name": "重庆交通大学",
+    "nameEn": "Chongqing Jiaotong University",
+    "province": "重庆",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "hebei-agricultural-university",
+    "name": "河北农业大学",
+    "nameEn": "Hebei Agricultural University",
+    "province": "河北",
+    "category": "农业",
+    "tags": []
+  },
+  {
+    "id": "hunan-university-of-science-and-technology",
+    "name": "湖南科技大学",
+    "nameEn": "Hunan University of Science and Technology",
+    "province": "湖南",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "yunnan-normal-university",
+    "name": "云南师范大学",
+    "nameEn": "Yunnan Normal University",
+    "province": "云南",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "tianjin-university-of-technology",
+    "name": "天津理工大学",
+    "nameEn": "Tianjin University of Technology",
+    "province": "天津",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "harbin-normal-university",
+    "name": "哈尔滨师范大学",
+    "nameEn": "Harbin Normal University",
+    "province": "黑龙江",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "henan-university-of-technology",
+    "name": "河南工业大学",
+    "nameEn": "Henan University of Technology",
+    "province": "河南",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "tianjin-university-of-science-and-technology",
+    "name": "天津科技大学",
+    "nameEn": "Tianjin University of Science and Technology",
+    "province": "天津",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "university-of-south-china",
+    "name": "南华大学",
+    "nameEn": "University of South China",
+    "province": "湖南",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "inner-mongolia-agricultural-university",
+    "name": "内蒙古农业大学",
+    "nameEn": "Inner Mongolia Agricultural University",
+    "province": "内蒙古",
+    "category": "农业",
+    "tags": []
+  },
+  {
+    "id": "sichuan-normal-university",
+    "name": "四川师范大学",
+    "nameEn": "Sichuan Normal University",
+    "province": "四川",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "harbin-university-of-science-and-technology",
+    "name": "哈尔滨理工大学",
+    "nameEn": "Harbin University of Science and Technology",
+    "province": "黑龙江",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "beijing-information-science-technology-university",
+    "name": "北京信息科技大学",
+    "nameEn": "Beijing Information Science & Technology University",
+    "province": "北京",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "southwest-university-of-science-and-technology",
+    "name": "西南科技大学",
+    "nameEn": "Southwest University of Science and Technology",
+    "province": "四川",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "yantai-university",
+    "name": "烟台大学",
+    "nameEn": "Yantai University",
+    "province": "山东",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "wuhan-textile-university",
+    "name": "武汉纺织大学",
+    "nameEn": "Wuhan Textile University",
+    "province": "湖北",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "east-china-jiaotong-university",
+    "name": "华东交通大学",
+    "nameEn": "East China Jiaotong University",
+    "province": "江西",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "chongqing-normal-university",
+    "name": "重庆师范大学",
+    "nameEn": "Chongqing Normal University",
+    "province": "重庆",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "jiangxi-agricultural-university",
+    "name": "江西农业大学",
+    "nameEn": "Jiangxi Agricultural University",
+    "province": "江西",
+    "category": "农业",
+    "tags": []
+  },
+  {
+    "id": "ludong-university",
+    "name": "鲁东大学",
+    "nameEn": "Ludong University",
+    "province": "山东",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "shenyang-university-of-technology",
+    "name": "沈阳工业大学",
+    "nameEn": "Shenyang University of Technology",
+    "province": "辽宁",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "east-china-university-of-technology",
+    "name": "东华理工大学",
+    "nameEn": "East China University of Technology",
+    "province": "江西",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "lanzhou-university-of-technology",
+    "name": "兰州理工大学",
+    "nameEn": "Lanzhou University of Technology",
+    "province": "甘肃",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "qingdao-agricultural-university",
+    "name": "青岛农业大学",
+    "nameEn": "Qingdao Agricultural University",
+    "province": "山东",
+    "category": "农业",
+    "tags": []
+  },
+  {
+    "id": "shanghai-university-of-engineering-science",
+    "name": "上海工程技术大学",
+    "nameEn": "Shanghai University of Engineering Science",
+    "province": "上海",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "northeast-petroleum-university",
+    "name": "东北石油大学",
+    "nameEn": "Northeast Petroleum University",
+    "province": "黑龙江",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "zhengzhou-university-of-light-industry",
+    "name": "郑州轻工业大学",
+    "nameEn": "Zhengzhou University of Light Industry",
+    "province": "河南",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "qingdao-university-of-technology",
+    "name": "青岛理工大学",
+    "nameEn": "Qingdao University of Technology",
+    "province": "山东",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "beijing-electronic-science-and-technology-institute",
+    "name": "北京电子科技学院",
+    "nameEn": "Beijing Electronic Science and Technology Institute",
+    "province": "北京",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "huzhou-university",
+    "name": "湖州师范学院",
+    "nameEn": "Huzhou University",
+    "province": "浙江",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "shenyang-normal-university",
+    "name": "沈阳师范大学",
+    "nameEn": "Shenyang Normal University",
+    "province": "辽宁",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "north-china-university-of-water-resources-and-electric-power",
+    "name": "华北水利水电大学",
+    "nameEn": "North China University of Water Resources and Electric Power",
+    "province": "河南",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "central-south-university-of-forestry-technology",
+    "name": "中南林业科技大学",
+    "nameEn": "Central South University of Forestry & Technology",
+    "province": "湖南",
+    "category": "林业",
+    "tags": []
+  },
+  {
+    "id": "shenyang-aerospace-university",
+    "name": "沈阳航空航天大学",
+    "nameEn": "Shenyang Aerospace University",
+    "province": "辽宁",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "shenyang-jianzhu-university",
+    "name": "沈阳建筑大学",
+    "nameEn": "Shenyang Jianzhu University",
+    "province": "辽宁",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "suzhou-university-of-science-and-technology",
+    "name": "苏州科技大学",
+    "nameEn": "Suzhou University of Science and Technology",
+    "province": "江苏",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "university-of-international-relations",
+    "name": "国际关系学院",
+    "nameEn": "University of International Relations",
+    "province": "北京",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "xian-university-of-posts-and-telecommunications",
+    "name": "西安邮电大学",
+    "nameEn": "Xi'an University of Posts and Telecommunications",
+    "province": "陕西",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "guilin-university-of-electronic-technology",
+    "name": "桂林电子科技大学",
+    "nameEn": "Guilin University of Electronic Technology",
+    "province": "广西",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "shanxi-agricultural-university",
+    "name": "山西农业大学",
+    "nameEn": "Shanxi Agricultural University",
+    "province": "山西",
+    "category": "农业",
+    "tags": []
+  },
+  {
+    "id": "beijing-university-of-agriculture",
+    "name": "北京农学院",
+    "nameEn": "Beijing University of Agriculture",
+    "province": "北京",
+    "category": "农业",
+    "tags": []
+  },
+  {
+    "id": "beijing-institute-of-graphic-communication",
+    "name": "北京印刷学院",
+    "nameEn": "Beijing Institute of Graphic Communication",
+    "province": "北京",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "wuhan-polytechnic-university",
+    "name": "武汉轻工大学",
+    "nameEn": "Wuhan Polytechnic University",
+    "province": "湖北",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "anhui-jianzhu-university",
+    "name": "安徽建筑大学",
+    "nameEn": "Anhui jianzhu University",
+    "province": "安徽",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "china-west-normal-university",
+    "name": "西华师范大学",
+    "nameEn": "China West Normal University",
+    "province": "四川",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "hainan-normal-university",
+    "name": "海南师范大学",
+    "nameEn": "Hainan Normal University",
+    "province": "海南",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "northeast-electric-power-university",
+    "name": "东北电力大学",
+    "nameEn": "Northeast Electric Power University",
+    "province": "吉林",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "chengdu-university-of-information-technology",
+    "name": "成都信息工程大学",
+    "nameEn": "Chengdu University of Information Technology",
+    "province": "四川",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "lanzhou-jiaotong-university",
+    "name": "兰州交通大学",
+    "nameEn": "Lanzhou Jiaotong University",
+    "province": "甘肃",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "hebei-university-of-science-and-technology",
+    "name": "河北科技大学",
+    "nameEn": "Hebei University of Science and Technology",
+    "province": "河北",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "gansu-agricultural-university",
+    "name": "甘肃农业大学",
+    "nameEn": "Gansu Agricultural University",
+    "province": "甘肃",
+    "category": "农业",
+    "tags": []
+  },
+  {
+    "id": "zhongyuan-university-of-technology",
+    "name": "中原工学院",
+    "nameEn": "Zhongyuan University of Technology",
+    "province": "河南",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "chongqing-university-of-technology",
+    "name": "重庆理工大学",
+    "nameEn": "Chongqing University of Technology",
+    "province": "重庆",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "foshan-university",
+    "name": "佛山大学",
+    "nameEn": "Foshan University",
+    "province": "广东",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "liaocheng-university",
+    "name": "聊城大学",
+    "nameEn": "Liaocheng University",
+    "province": "山东",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "shandong-jianzhu-university",
+    "name": "山东建筑大学",
+    "nameEn": "Shandong Jianzhu University",
+    "province": "山东",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "dongguan-university-of-technology",
+    "name": "东莞理工学院",
+    "nameEn": "Dongguan University of Technology",
+    "province": "广东",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "chengdu-university",
+    "name": "成都大学",
+    "nameEn": "Chengdu University",
+    "province": "四川",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "jiaxing-university",
+    "name": "嘉兴大学",
+    "nameEn": "Jiaxing University",
+    "province": "浙江",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "shanxi-normal-university",
+    "name": "山西师范大学",
+    "nameEn": "Shanxi Normal University",
+    "province": "山西",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "xian-shiyou-university",
+    "name": "西安石油大学",
+    "nameEn": "Xi'an Shiyou University",
+    "province": "陕西",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "xian-polytechnic-university",
+    "name": "西安工程大学",
+    "nameEn": "Xi'an Polytechnic University",
+    "province": "陕西",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "dalian-jiaotong-university",
+    "name": "大连交通大学",
+    "nameEn": "Dalian Jiaotong University",
+    "province": "辽宁",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "dalian-university",
+    "name": "大连大学",
+    "nameEn": "Dalian University",
+    "province": "辽宁",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "dalian-polytechnic-university",
+    "name": "大连工业大学",
+    "nameEn": "Dalian Polytechnic University",
+    "province": "辽宁",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "anhui-polytechnic-university",
+    "name": "安徽工程大学",
+    "nameEn": "Anhui Polytechnic University",
+    "province": "安徽",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "ningbotech-university",
+    "name": "浙大宁波理工学院",
+    "nameEn": "NingboTech University",
+    "province": "浙江",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "jianghan-university",
+    "name": "江汉大学",
+    "nameEn": "Jianghan University",
+    "province": "湖北",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "xinyang-normal-university",
+    "name": "信阳师范大学",
+    "nameEn": "Xinyang Normal University",
+    "province": "河南",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "qinghai-normal-university",
+    "name": "青海师范大学",
+    "nameEn": "Qinghai Normal University",
+    "province": "青海",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "guizhou-normal-university",
+    "name": "贵州师范大学",
+    "nameEn": "Guizhou Normal University",
+    "province": "贵州",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "liaoning-shihua-university",
+    "name": "辽宁石油化工大学",
+    "nameEn": "Liaoning shihua University",
+    "province": "辽宁",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "north-china-university-of-science-and-technology",
+    "name": "华北理工大学",
+    "nameEn": "North China University of Science and Technology",
+    "province": "河北",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "shenyang-university-of-chemical-technology",
+    "name": "沈阳化工大学",
+    "nameEn": "Shenyang University of Chemical Technology",
+    "province": "辽宁",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "shanghai-institute-of-technology",
+    "name": "上海应用技术大学",
+    "nameEn": "Shanghai Institute of Technology",
+    "province": "上海",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "nanjing-institute-of-technology",
+    "name": "南京工程学院",
+    "nameEn": "Nanjing Institute of Technology",
+    "province": "江苏",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "civil-aviation-university-of-china",
+    "name": "中国民航大学",
+    "nameEn": "Civil Aviation University of China",
+    "province": "天津",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "hefei-university",
+    "name": "合肥大学",
+    "nameEn": "Hefei University",
+    "province": "安徽",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "bohai-university",
+    "name": "渤海大学",
+    "nameEn": "Bohai University",
+    "province": "辽宁",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "hunan-university-of-technology",
+    "name": "湖南工业大学",
+    "nameEn": "Hunan University of Technology",
+    "province": "湖南",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "beijing-union-university",
+    "name": "北京联合大学",
+    "nameEn": "Beijing Union University",
+    "province": "北京",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "shaoxing-university",
+    "name": "绍兴文理学院",
+    "nameEn": "Shaoxing University",
+    "province": "浙江",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "liaoning-technical-university",
+    "name": "辽宁工程技术大学",
+    "nameEn": "Liaoning Technical University",
+    "province": "辽宁",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "linyi-university",
+    "name": "临沂大学",
+    "nameEn": "Linyi University",
+    "province": "山东",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "heilongjiang-bayi-agricultural-university",
+    "name": "黑龙江八一农垦大学",
+    "nameEn": "Heilongjiang Bayi Agricultural University",
+    "province": "黑龙江",
+    "category": "农业",
+    "tags": []
+  },
+  {
+    "id": "xian-technological-university",
+    "name": "西安工业大学",
+    "nameEn": "Xi'an Technological University",
+    "province": "陕西",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "inner-mongolia-normal-university",
+    "name": "内蒙古师范大学",
+    "nameEn": "Inner Mongolia Normal University",
+    "province": "内蒙古",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "gannan-normal-university",
+    "name": "赣南师范大学",
+    "nameEn": "GanNan Normal University",
+    "province": "江西",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "xiamen-university-of-technology",
+    "name": "厦门理工学院",
+    "nameEn": "Xiamen University of Technology",
+    "province": "福建",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "jilin-normal-university",
+    "name": "吉林师范大学",
+    "nameEn": "Jilin Normal University",
+    "province": "吉林",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "xihua-university",
+    "name": "西华大学",
+    "nameEn": "Xihua University",
+    "province": "四川",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "yanan-university",
+    "name": "延安大学",
+    "nameEn": "Yan'an University",
+    "province": "陕西",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "guilin-university-of-technology",
+    "name": "桂林理工大学",
+    "nameEn": "Guilin University of Technology",
+    "province": "广西",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "hebei-university-of-engineering",
+    "name": "河北工程大学",
+    "nameEn": "Hebei University of Engineering",
+    "province": "河北",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "shenyang-ligong-university",
+    "name": "沈阳理工大学",
+    "nameEn": "Shenyang Ligong University",
+    "province": "辽宁",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "beijing-institute-of-petrochemical-technology",
+    "name": "北京石油化工学院",
+    "nameEn": "Beijing Institute of Petrochemical Technology",
+    "province": "北京",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "anqing-normal-university",
+    "name": "安庆师范大学",
+    "nameEn": "Anqing Normal University",
+    "province": "安徽",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "huaibei-normal-university",
+    "name": "淮北师范大学",
+    "nameEn": "Huaibei Normal University",
+    "province": "安徽",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "changchun-university-of-technology",
+    "name": "长春工业大学",
+    "nameEn": "Changchun University of Technology",
+    "province": "吉林",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "zhejiang-university-of-science-and-technology",
+    "name": "浙江科技大学",
+    "nameEn": "Zhejiang University of Science and Technology",
+    "province": "浙江",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "liaoning-university-of-technology",
+    "name": "辽宁工业大学",
+    "nameEn": "Liaoning University of Technology",
+    "province": "辽宁",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "zhejiang-university-city-college",
+    "name": "浙大城市学院",
+    "nameEn": "Zhejiang University City College",
+    "province": "浙江",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "guangdong-polytechnic-normal-university",
+    "name": "广东技术师范大学",
+    "nameEn": "Guangdong Polytechnic Normal University",
+    "province": "广东",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "inner-mongolia-university-for-nationalities",
+    "name": "内蒙古民族大学",
+    "nameEn": "Inner Mongolia University for Nationalities",
+    "province": "内蒙古",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "jingdezhen-ceramic-institute",
+    "name": "景德镇陶瓷大学",
+    "nameEn": "Jingdezhen Ceramic Institute",
+    "province": "江西",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "dalian-ocean-university",
+    "name": "大连海洋大学",
+    "nameEn": "Dalian Ocean University",
+    "province": "辽宁",
+    "category": "农业",
+    "tags": []
+  },
+  {
+    "id": "university-of-science-and-technology-liaoning",
+    "name": "辽宁科技大学",
+    "nameEn": "University of Science and Technology Liaoning",
+    "province": "辽宁",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "shanghai-customs-college",
+    "name": "上海海关学院",
+    "nameEn": "Shanghai Customs College",
+    "province": "上海",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "jiangxi-university-of-water-resources-and-electric-power",
+    "name": "江西水利电力大学",
+    "nameEn": "Nanchang Institute of Technology",
+    "province": "江西",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "jishou-university",
+    "name": "吉首大学",
+    "nameEn": "Jishou University",
+    "province": "湖南",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "huaiyin-institute-of-technology",
+    "name": "淮阴工学院",
+    "nameEn": "Huaiyin Institute of Technology",
+    "province": "江苏",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "yunnan-agricultural-university",
+    "name": "云南农业大学",
+    "nameEn": "Yunnan Agricultural University",
+    "province": "云南",
+    "category": "农业",
+    "tags": []
+  },
+  {
+    "id": "jiangxi-science-and-technology-normal-university",
+    "name": "江西科技师范大学",
+    "nameEn": "Jiangxi Science and Technology Normal University",
+    "province": "江西",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "beihua-university",
+    "name": "北华大学",
+    "nameEn": "Beihua University",
+    "province": "吉林",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "shenyang-university",
+    "name": "沈阳大学",
+    "nameEn": "Shenyang University",
+    "province": "辽宁",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "tarim-university",
+    "name": "塔里木大学",
+    "nameEn": "Tarim University",
+    "province": "新疆",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "yangtze-normal-university",
+    "name": "长江师范学院",
+    "nameEn": "Yangtze Normal University",
+    "province": "重庆",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "xinjiang-normal-university",
+    "name": "新疆师范大学",
+    "nameEn": "Xinjiang Normal University",
+    "province": "新疆",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "dali-university",
+    "name": "大理大学",
+    "nameEn": "Dali University",
+    "province": "云南",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "inner-mongolia-university-of-technology",
+    "name": "内蒙古工业大学",
+    "nameEn": "Inner Mongolia University of Technology",
+    "province": "内蒙古",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "chongqing-university-of-science-and-technology",
+    "name": "重庆科技大学",
+    "nameEn": "Chongqing University of Science and Technology",
+    "province": "重庆",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "huaiyin-normal-university",
+    "name": "淮阴师范学院",
+    "nameEn": "Huaiyin Normal University",
+    "province": "江苏",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "hubei-university-of-education",
+    "name": "湖北第二师范学院",
+    "nameEn": "Hubei University of Education",
+    "province": "湖北",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "hubei-normal-university",
+    "name": "湖北师范大学",
+    "nameEn": "Hubei Normal University",
+    "province": "湖北",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "guangxi-teachers-education-university",
+    "name": "南宁师范大学",
+    "nameEn": "Guangxi Teachers Education University",
+    "province": "广西",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "hunan-institute-of-science-and-technology",
+    "name": "湖南理工学院",
+    "nameEn": "Hunan Institute of Science and Technology",
+    "province": "湖南",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "guangdong-ocean-university",
+    "name": "广东海洋大学",
+    "nameEn": "Guangdong Ocean University",
+    "province": "广东",
+    "category": "农业",
+    "tags": []
+  },
+  {
+    "id": "yancheng-institute-of-technology",
+    "name": "盐城工学院",
+    "nameEn": "Yancheng Institute of Technology",
+    "province": "江苏",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "jinggangshan-university",
+    "name": "井冈山大学",
+    "nameEn": "Jinggangshan University",
+    "province": "江西",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "minnan-normal-university",
+    "name": "闽南师范大学",
+    "nameEn": "Minnan Normal University",
+    "province": "福建",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "yancheng-teachers-university",
+    "name": "盐城师范学院",
+    "nameEn": "Yancheng Teachers University",
+    "province": "江苏",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "jilin-jianzhu-university",
+    "name": "吉林建筑大学",
+    "nameEn": "Jilin Jianzhu University",
+    "province": "吉林",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "ningbo-university-of-technology",
+    "name": "宁波工程学院",
+    "nameEn": "Ningbo University of Technology",
+    "province": "浙江",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "jiangsu-university-of-technology",
+    "name": "江苏理工学院",
+    "nameEn": "Jiangsu University of Technology",
+    "province": "江苏",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "taiyuan-university-of-science-and-technology",
+    "name": "太原科技大学",
+    "nameEn": "Taiyuan University of Science and Technology",
+    "province": "山西",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "taizhou-university-tzc",
+    "name": "台州学院",
+    "nameEn": "Taizhou University",
+    "province": "浙江",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "fujian-university-of-technology",
+    "name": "福建理工大学",
+    "nameEn": "Fujian University of Technology",
+    "province": "福建",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "guizhou-normal-college",
+    "name": "贵州师范学院",
+    "nameEn": "Guizhou Normal College",
+    "province": "贵州",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "chongqing-university-of-arts-and-science",
+    "name": "重庆文理学院",
+    "nameEn": "Chongqing University of Arts and Science",
+    "province": "重庆",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "shanghai-second-polytechnic-university",
+    "name": "上海第二工业大学",
+    "nameEn": "Shanghai Second Polytechnic University",
+    "province": "上海",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "nanjing-xiaozhuang-university",
+    "name": "南京晓庄学院",
+    "nameEn": "Nanjing XiaoZhuang University",
+    "province": "江苏",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "tianjin-chengjian-university",
+    "name": "天津城建大学",
+    "nameEn": "Tianjin Chengjian University",
+    "province": "天津",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "henan-institute-of-science-and-technology",
+    "name": "河南科技学院",
+    "nameEn": "Henan Institute of Science and Technology",
+    "province": "河南",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "zhongkai-university-of-agriculture-and-engineering",
+    "name": "仲恺农业工程学院",
+    "nameEn": "Zhongkai University of Agriculture and Engineering",
+    "province": "广东",
+    "category": "农业",
+    "tags": []
+  },
+  {
+    "id": "huaihai-institute-of-technology",
+    "name": "江苏海洋大学",
+    "nameEn": "Huaihai Institute of Technology",
+    "province": "江苏",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "shanghai-dianji-university",
+    "name": "上海电机学院",
+    "nameEn": "Shanghai Dianji University",
+    "province": "上海",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "changchun-normal-university",
+    "name": "长春师范大学",
+    "nameEn": "Changchun Normal University",
+    "province": "吉林",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "fuyang-normal-university",
+    "name": "阜阳师范大学",
+    "nameEn": "Fuyang Normal University",
+    "province": "安徽",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "hefei-normal-university",
+    "name": "合肥师范学院",
+    "nameEn": "Hefei Normal University",
+    "province": "安徽",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "wuyi-university-wyu",
+    "name": "五邑大学",
+    "nameEn": "Wuyi University",
+    "province": "广东",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "huanggang-normal-university",
+    "name": "黄冈师范学院",
+    "nameEn": "Huanggang Normal University",
+    "province": "湖北",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "inner-mongolia-university-of-science-technology",
+    "name": "内蒙古科技大学",
+    "nameEn": "Inner Mongolia University of Science & Technology",
+    "province": "内蒙古",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "xinjiang-agricultural-university",
+    "name": "新疆农业大学",
+    "nameEn": "Xinjiang Agricultural University",
+    "province": "新疆",
+    "category": "农业",
+    "tags": []
+  },
+  {
+    "id": "anhui-science-and-technology-university",
+    "name": "安徽科技学院",
+    "nameEn": "Anhui Science and Technology University",
+    "province": "安徽",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "shandong-jiaotong-university",
+    "name": "山东交通学院",
+    "nameEn": "Shandong Jiaotong University",
+    "province": "山东",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "binzhou-university",
+    "name": "山东航空学院",
+    "nameEn": "Binzhou University",
+    "province": "山东",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "sichuan-university-of-science-and-engineering",
+    "name": "四川轻化工大学",
+    "nameEn": "Sichuan University of Science and Engineering",
+    "province": "四川",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "changshu-institute-of-technology-2",
+    "name": "常熟理工学院",
+    "nameEn": "Changshu Institute of Technology",
+    "province": "江苏",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "minjiang-university",
+    "name": "闽江学院",
+    "nameEn": "Minjiang University",
+    "province": "福建",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "hubei-university-of-arts-and-science",
+    "name": "湖北文理学院",
+    "nameEn": "Hubei University of Arts and Science",
+    "province": "湖北",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "tongren-university",
+    "name": "铜仁学院",
+    "nameEn": "Tongren University",
+    "province": "贵州",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "qiqihar-university",
+    "name": "齐齐哈尔大学",
+    "nameEn": "Qiqihar University",
+    "province": "黑龙江",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "hebei-normal-university-of-science-and-technology",
+    "name": "河北科技师范学院",
+    "nameEn": "Hebei Normal University of Science and Technology",
+    "province": "河北",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "tianjin-agricultural-university",
+    "name": "天津农学院",
+    "nameEn": "Tianjin Agricultural University",
+    "province": "天津",
+    "category": "农业",
+    "tags": []
+  },
+  {
+    "id": "quanzhou-normal-university",
+    "name": "泉州师范学院",
+    "nameEn": "Quanzhou Normal University",
+    "province": "福建",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "huanghuai-university",
+    "name": "黄淮学院",
+    "nameEn": "Huanghuai University",
+    "province": "河南",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "nanyang-normal-university",
+    "name": "南阳师范学院",
+    "nameEn": "Nanyang Normal University",
+    "province": "河南",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "zhejiang-university-of-water-resources-and-electric-power",
+    "name": "浙江水利水电学院",
+    "nameEn": "Zhejiang University of Water Resources and Electric Power",
+    "province": "浙江",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "changsha-university",
+    "name": "长沙学院",
+    "nameEn": "Changsha University",
+    "province": "湖南",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "lingnan-normal-university",
+    "name": "岭南师范学院",
+    "nameEn": "LingNan Normal University",
+    "province": "广东",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "zaozhuang-university",
+    "name": "枣庄学院",
+    "nameEn": "Zaozhuang University",
+    "province": "山东",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "tianjin-university-of-technology-and-education",
+    "name": "天津职业技术师范大学",
+    "nameEn": "TianJin University of Technology and Education",
+    "province": "天津",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "southwest-forestry-university",
+    "name": "西南林业大学",
+    "nameEn": "Southwest Forestry University",
+    "province": "云南",
+    "category": "林业",
+    "tags": []
+  },
+  {
+    "id": "zhejiang-wanli-university",
+    "name": "浙江万里学院",
+    "nameEn": "Zhejiang Wanli University",
+    "province": "浙江",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "hubei-university-of-science-and-technology",
+    "name": "湖北科技学院",
+    "nameEn": "Hubei University of Science and Technology",
+    "province": "湖北",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "changchun-university",
+    "name": "长春大学",
+    "nameEn": "Changchun University",
+    "province": "吉林",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "heilongjiang-institute-of-technology",
+    "name": "黑龙江工程学院",
+    "nameEn": "Heilongjiang Institute of Technology",
+    "province": "黑龙江",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "anyang-normal-university",
+    "name": "安阳师范学院",
+    "nameEn": "Anyang Normal University",
+    "province": "河南",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "luoyang-normal-university",
+    "name": "洛阳师范学院",
+    "nameEn": "Luoyang Normal University",
+    "province": "河南",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "jiangsu-second-normal-university",
+    "name": "江苏第二师范学院",
+    "nameEn": "Jiangsu Second Normal University",
+    "province": "江苏",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "changzhou-institute-of-technology",
+    "name": "常州工学院",
+    "nameEn": "Changzhou Institute of Technology",
+    "province": "江苏",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "panzhihua-university",
+    "name": "攀枝花学院",
+    "nameEn": "Panzhihua University",
+    "province": "四川",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "shaanxi-university-of-technology",
+    "name": "陕西理工大学",
+    "nameEn": "Shaanxi University of Technology",
+    "province": "陕西",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "tangshan-normal-university",
+    "name": "唐山师范学院",
+    "nameEn": "Tangshan Normal University",
+    "province": "河北",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "heilongjiang-university-of-science-and-technology",
+    "name": "黑龙江科技大学",
+    "nameEn": "Heilongjiang University of Science and Technology",
+    "province": "黑龙江",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "huizhou-university",
+    "name": "惠州学院",
+    "nameEn": "Huizhou University",
+    "province": "广东",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "neijiang-normal-university",
+    "name": "内江师范学院",
+    "nameEn": "Neijiang Normal University",
+    "province": "四川",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "taishan-university",
+    "name": "泰山学院",
+    "nameEn": "Taishan University",
+    "province": "山东",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "dezhou-university",
+    "name": "德州学院",
+    "nameEn": "Dezhou University",
+    "province": "山东",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "hunan-first-normal-university",
+    "name": "湖南第一师范学院",
+    "nameEn": "Hunan First Normal University",
+    "province": "湖南",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "hengyang-normal-university",
+    "name": "衡阳师范学院",
+    "nameEn": "Hengyang Normal University",
+    "province": "湖南",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "tibet-agriculture-and-animal-husbandry-university-2",
+    "name": "西藏农牧学院",
+    "nameEn": "Tibet Agriculture and Animal Husbandry University",
+    "province": "西藏",
+    "category": "农业",
+    "tags": []
+  },
+  {
+    "id": "suqian-college",
+    "name": "宿迁学院",
+    "nameEn": "Suqian College",
+    "province": "江苏",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "hubei-university-of-automotive-technology",
+    "name": "湖北汽车工业学院",
+    "nameEn": "Hubei University of Automotive Technology",
+    "province": "湖北",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "quzhou-university",
+    "name": "衢州学院",
+    "nameEn": "Quzhou University",
+    "province": "浙江",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "jiamusi-university",
+    "name": "佳木斯大学",
+    "nameEn": "Jiamusi University",
+    "province": "黑龙江",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "north-china-institute-of-aerospace-engineering",
+    "name": "北华航天工业学院",
+    "nameEn": "North China Institute of Aerospace Engineering",
+    "province": "河北",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "qilu-normal-university",
+    "name": "齐鲁师范学院",
+    "nameEn": "Qilu Normal University",
+    "province": "山东",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "yulin-normal-university",
+    "name": "玉林师范学院",
+    "nameEn": "Yulin Normal University",
+    "province": "广西",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "yichun-university",
+    "name": "宜春学院",
+    "nameEn": "Yichun University",
+    "province": "江西",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "hunan-city-university",
+    "name": "湖南城市学院",
+    "nameEn": "Hunan City University",
+    "province": "湖南",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "jiujiang-university",
+    "name": "九江学院",
+    "nameEn": "Jiujiang University",
+    "province": "江西",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "mianyang-teachers-college",
+    "name": "绵阳师范学院",
+    "nameEn": "Mianyang Teachers' College",
+    "province": "四川",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "baoji-university-of-arts-and-sciences",
+    "name": "宝鸡文理学院",
+    "nameEn": "Baoji University of Arts and Sciences",
+    "province": "陕西",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "henan-university-of-urban-construction",
+    "name": "河南城建学院",
+    "nameEn": "Henan University of Urban Construction",
+    "province": "河南",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "chuzhou-university",
+    "name": "滁州学院",
+    "nameEn": "Chuzhou University",
+    "province": "安徽",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "henan-university-of-engineering",
+    "name": "河南工程学院",
+    "nameEn": "Henan University of Engineering",
+    "province": "河南",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "guangxi-university-of-science-and-technology",
+    "name": "广西科技大学",
+    "nameEn": "Guangxi University of Science and Technology",
+    "province": "广西",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "xuzhou-institute-of-technology",
+    "name": "徐州工程学院",
+    "nameEn": "Xuzhou Institute of Technology",
+    "province": "江苏",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "chongqing-three-gorges-university",
+    "name": "重庆三峡学院",
+    "nameEn": "Chongqing Three Gorges University",
+    "province": "重庆",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "nanyang-institute-of-technology",
+    "name": "南阳理工学院",
+    "nameEn": "Nanyang Institute of Technology",
+    "province": "河南",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "zhaoqing-university",
+    "name": "肇庆学院",
+    "nameEn": "Zhaoqing University",
+    "province": "广东",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "west-anhui-university",
+    "name": "皖西学院",
+    "nameEn": "West AnHui University",
+    "province": "安徽",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "hubei-engineering-university",
+    "name": "湖北工程学院",
+    "nameEn": "Hubei Engineering University",
+    "province": "湖北",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "jinling-institute-of-technology",
+    "name": "金陵科技学院",
+    "nameEn": "Jinling Institute of Technology",
+    "province": "江苏",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "changchun-institute-of-technology",
+    "name": "长春工程学院",
+    "nameEn": "Changchun Institute of Technology",
+    "province": "吉林",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "shangrao-normal-university",
+    "name": "上饶师范学院",
+    "nameEn": "Shangrao Normal University",
+    "province": "江西",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "xian-university",
+    "name": "西安文理学院",
+    "nameEn": "Xi'an University",
+    "province": "陕西",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "yingkou-institute-of-technology",
+    "name": "营口理工学院",
+    "nameEn": "YingKou Institute of Technology",
+    "province": "辽宁",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "weifang-university",
+    "name": "潍坊学院",
+    "nameEn": "Weifang University",
+    "province": "山东",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "xinyang-agriculture-and-forestry-university",
+    "name": "信阳农林学院",
+    "nameEn": "Xinyang Agriculture and Forestry University",
+    "province": "河南",
+    "category": "农业",
+    "tags": []
+  },
+  {
+    "id": "hunan-university-of-arts-and-science",
+    "name": "湖南文理学院",
+    "nameEn": "Hunan University of Arts and Science",
+    "province": "湖南",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "shangqiu-normal-university",
+    "name": "商丘师范学院",
+    "nameEn": "Shangqiu Normal University",
+    "province": "河南",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "guangdong-university-of-petrochemical-technology",
+    "name": "广东石油化工学院",
+    "nameEn": "Guangdong University of Petrochemical Technology",
+    "province": "广东",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "shandong-management-university",
+    "name": "山东管理学院",
+    "nameEn": "Shandong Management University",
+    "province": "山东",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "yibin-university",
+    "name": "宜宾学院",
+    "nameEn": "Yibin University",
+    "province": "四川",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "civil-aviation-flight-university-of-china",
+    "name": "中国民用航空飞行学院",
+    "nameEn": "Civil Aviation Flight University of China",
+    "province": "四川",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "chengdu-normal-university",
+    "name": "成都师范学院",
+    "nameEn": "Chengdu Normal University",
+    "province": "四川",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "shaoguan-university",
+    "name": "韶关学院",
+    "nameEn": "Shaoguan University",
+    "province": "广东",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "jiaying-university",
+    "name": "嘉应学院",
+    "nameEn": "Jiaying University",
+    "province": "广东",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "ningxia-normal-university",
+    "name": "宁夏师范大学",
+    "nameEn": "Ningxia Normal University",
+    "province": "宁夏",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "institute-of-disaster-prevention",
+    "name": "防灾科技学院",
+    "nameEn": "Institute of Disaster Prevention",
+    "province": "河北",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "tonghua-normal-university",
+    "name": "通化师范学院",
+    "nameEn": "Tonghua Normal University",
+    "province": "吉林",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "xichang-college",
+    "name": "西昌学院",
+    "nameEn": "Xichang College",
+    "province": "四川",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "lishui-university",
+    "name": "丽水学院",
+    "nameEn": "Lishui University",
+    "province": "浙江",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "harbin-university",
+    "name": "哈尔滨学院",
+    "nameEn": "Harbin University",
+    "province": "黑龙江",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "xinxiang-university",
+    "name": "新乡学院",
+    "nameEn": "Xinxiang University",
+    "province": "河南",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "zunyi-normal-university",
+    "name": "遵义师范学院",
+    "nameEn": "Zunyi Normal University",
+    "province": "贵州",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "hubei-polytechnic-university",
+    "name": "湖北理工学院",
+    "nameEn": "Hubei Polytechnic University",
+    "province": "湖北",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "north-china-institute-of-science-and-technology",
+    "name": "华北科技学院",
+    "nameEn": "North China Institute of Science and Technology",
+    "province": "河北",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "leshan-normal-university",
+    "name": "乐山师范学院",
+    "nameEn": "Leshan Normal University",
+    "province": "四川",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "shijiazhuang-university",
+    "name": "石家庄学院",
+    "nameEn": "Shijiazhuang University",
+    "province": "河北",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "hunan-institute-of-engineering",
+    "name": "湖南工程学院",
+    "nameEn": "Hunan Institute of Engineering",
+    "province": "湖南",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "sanming-university",
+    "name": "三明学院",
+    "nameEn": "Sanming University",
+    "province": "福建",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "guizhou-institute-of-technology",
+    "name": "贵州理工学院",
+    "nameEn": "Guizhou Institute of Technology",
+    "province": "贵州",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "chongqing-university-of-education",
+    "name": "重庆第二师范学院",
+    "nameEn": "Chongqing University of Education",
+    "province": "重庆",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "liaoning-institute-of-science-and-technology",
+    "name": "辽宁科技学院",
+    "nameEn": "Liaoning Institute of Science and Technology",
+    "province": "辽宁",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "beibu-gulf-university",
+    "name": "北部湾大学",
+    "nameEn": "Beibu Gulf University",
+    "province": "广西",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "longyan-university",
+    "name": "龙岩学院",
+    "nameEn": "Longyan University",
+    "province": "福建",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "xuchang-university",
+    "name": "许昌学院",
+    "nameEn": "Xuchang University",
+    "province": "河南",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "hunan-university-of-science-and-engineering",
+    "name": "湖南科技学院",
+    "nameEn": "Hunan University of Science and Engineering",
+    "province": "湖南",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "guangdong-university-of-education",
+    "name": "广东第二师范学院",
+    "nameEn": "Guangdong University of Education",
+    "province": "广东",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "jilin-university-of-chemical-technology",
+    "name": "吉林化工大学",
+    "nameEn": "Jilin Institute of Chemical Technology",
+    "province": "吉林",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "shandong-womens-university",
+    "name": "山东女子学院",
+    "nameEn": "Shandong Women's University",
+    "province": "山东",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "pingdingshan-university",
+    "name": "平顶山学院",
+    "nameEn": "Pingdingshan University",
+    "province": "河南",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "putian-university",
+    "name": "莆田学院",
+    "nameEn": "Putian University",
+    "province": "福建",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "chengdu-technological-university",
+    "name": "成都工业学院",
+    "nameEn": "Chengdu Technological University",
+    "province": "四川",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "huangshan-university",
+    "name": "黄山学院",
+    "nameEn": "Huangshan University",
+    "province": "安徽",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "nanchang-normal-university",
+    "name": "南昌师范学院",
+    "nameEn": "Nanchang Normal University",
+    "province": "江西",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "qujing-normal-university",
+    "name": "曲靖师范学院",
+    "nameEn": "Qujing Normal University",
+    "province": "云南",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "luoyang-institute-of-science-and-technology",
+    "name": "洛阳理工学院",
+    "nameEn": "Luoyang Institute of Science and Technology",
+    "province": "河南",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "henan-university-of-animal-husbandry-and-economy",
+    "name": "河南牧业经济学院",
+    "nameEn": "Henan University of Animal Husbandry and Economy",
+    "province": "河南",
+    "category": "农业",
+    "tags": []
+  },
+  {
+    "id": "jilin-engineering-normal-university",
+    "name": "吉林工程技术师范学院",
+    "nameEn": "Jilin Engineering Normal University",
+    "province": "吉林",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "mudanjiang-normal-university",
+    "name": "牡丹江师范学院",
+    "nameEn": "Mudanjiang Normal University",
+    "province": "黑龙江",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "hanshan-normal-university",
+    "name": "韩山师范学院",
+    "nameEn": "Hanshan Normal University",
+    "province": "广东",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "huainan-normal-university",
+    "name": "淮南师范学院",
+    "nameEn": "Huainan Normal University",
+    "province": "安徽",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "sichuan-tourism-university",
+    "name": "四川旅游学院",
+    "nameEn": "Sichuan Tourism University",
+    "province": "四川",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "hainan-tropical-ocean-university",
+    "name": "海南热带海洋学院",
+    "nameEn": "Hainan Tropical Ocean University",
+    "province": "海南",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "hebei-university-of-architecture",
+    "name": "河北建筑工程学院",
+    "nameEn": "Hebei University of Architecture",
+    "province": "河北",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "xian-aeronautical-university",
+    "name": "西安航空学院",
+    "nameEn": "Xi'an Aeronautical University",
+    "province": "陕西",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "hanjiang-normal-university",
+    "name": "汉江师范学院",
+    "nameEn": "Hanjiang Normal University",
+    "province": "湖北",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "hebei-university-of-environmental-engineering",
+    "name": "河北环境工程学院",
+    "nameEn": "Hebei University of Environmental Engineering",
+    "province": "河北",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "kaili-university",
+    "name": "凯里学院",
+    "nameEn": "Kaili University",
+    "province": "贵州",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "shandong-agriculture-and-engineering-university",
+    "name": "山东农业工程学院",
+    "nameEn": "Shandong Agriculture and Engineering University",
+    "province": "山东",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "wenzheng-college-of-soochow-university",
+    "name": "苏州城市学院",
+    "nameEn": "Wenzheng College of Soochow University",
+    "province": "江苏",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "xiangnan-university",
+    "name": "湘南学院",
+    "nameEn": "Xiangnan University",
+    "province": "湖南",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "suzhou-university",
+    "name": "宿州学院",
+    "nameEn": "Suzhou University",
+    "province": "安徽",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "yulin-university",
+    "name": "榆林学院",
+    "nameEn": "Yulin University",
+    "province": "陕西",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "yuxi-normal-university",
+    "name": "玉溪师范学院",
+    "nameEn": "Yuxi Normal University",
+    "province": "云南",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "zhengzhou-normal-university",
+    "name": "郑州师范学院",
+    "nameEn": "Zhengzhou Normal University",
+    "province": "河南",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "anshun-university",
+    "name": "安顺学院",
+    "nameEn": "Anshun University",
+    "province": "贵州",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "guiyang-university",
+    "name": "贵阳学院",
+    "nameEn": "Guiyang University",
+    "province": "贵州",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "tangshan-college",
+    "name": "唐山学院",
+    "nameEn": "Tangshan College",
+    "province": "河北",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "hezhou-university",
+    "name": "贺州学院",
+    "nameEn": "Hezhou University",
+    "province": "广西",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "pingxiang-university",
+    "name": "萍乡学院",
+    "nameEn": "Pingxiang University",
+    "province": "江西",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "shanxi-datong-university",
+    "name": "山西大同大学",
+    "nameEn": "Shanxi Datong University",
+    "province": "山西",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "weinan-normal-university",
+    "name": "渭南师范学院",
+    "nameEn": "Weinan Normal University",
+    "province": "陕西",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "ningde-normal-university",
+    "name": "宁德师范学院",
+    "nameEn": "Ningde Normal University",
+    "province": "福建",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "qiannan-normal-college-for-nationalities",
+    "name": "黔南民族师范学院",
+    "nameEn": "Qiannan Normal College for Nationalities",
+    "province": "贵州",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "shangluo-university",
+    "name": "商洛学院",
+    "nameEn": "Shangluo University",
+    "province": "陕西",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "anyang-institute-of-technology",
+    "name": "安阳工学院",
+    "nameEn": "Anyang Institute of Technology",
+    "province": "河南",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "jining-university",
+    "name": "济宁学院",
+    "nameEn": "Jining University",
+    "province": "山东",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "chaohu-university",
+    "name": "巢湖学院",
+    "nameEn": "Chaohu University",
+    "province": "安徽",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "guangzhou-maritime-university",
+    "name": "广州航海学院",
+    "nameEn": "Guangzhou Maritime University",
+    "province": "广东",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "sichuan-university-of-arts-and-science",
+    "name": "四川文理学院",
+    "nameEn": "Sichuan University of Arts and Science",
+    "province": "四川",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "taiyuan-normal-university",
+    "name": "太原师范学院",
+    "nameEn": "Taiyuan Normal University",
+    "province": "山西",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "tianjin-sino-german-university-of-applied-sciences",
+    "name": "天津中德应用技术大学",
+    "nameEn": "Tianjin Sino-German University of Applied Sciences",
+    "province": "天津",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "shenyang-institute-of-engineering",
+    "name": "沈阳工程学院",
+    "nameEn": "Shenyang Institute of Engineering",
+    "province": "辽宁",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "xianyang-normal-university",
+    "name": "咸阳师范学院",
+    "nameEn": "Xianyang Normal University",
+    "province": "陕西",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "aba-teachers-university",
+    "name": "阿坝师范学院",
+    "nameEn": "Aba Teachers University",
+    "province": "四川",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "kunming-university",
+    "name": "昆明学院",
+    "nameEn": "Kunming University",
+    "province": "云南",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "zhengzhou-institute-of-technology",
+    "name": "郑州工程技术学院",
+    "nameEn": "Zhengzhou Institute of Technology",
+    "province": "河南",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "tianshui-normal-university",
+    "name": "天水师范学院",
+    "nameEn": "Tianshui Normal University",
+    "province": "甘肃",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "taizhou-university-tzu",
+    "name": "泰州学院",
+    "nameEn": "Taizhou University",
+    "province": "江苏",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "nanjing-university-of-information-science-and-technology-binjiang-college",
+    "name": "无锡学院",
+    "nameEn": "Nanjing University of Information Science and Technology, Binjiang College",
+    "province": "江苏",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "anshan-normal-university-liaoning-china",
+    "name": "鞍山师范学院",
+    "nameEn": "Anshan Normal University Liaoning China",
+    "province": "辽宁",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "cangzhou-normal-university",
+    "name": "沧州师范学院",
+    "nameEn": "Cangzhou Normal University",
+    "province": "河北",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "fujian-polytechnic-normal-university",
+    "name": "福建技术师范学院",
+    "nameEn": "Fujian Polytechnic Normal University",
+    "province": "福建",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "north-china-electric-power-university-science-and-technology-college",
+    "name": "河北科技工程职业技术大学",
+    "nameEn": "North China Electric Power University Science and Technology College",
+    "province": "河北",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "lanzhou-city-university",
+    "name": "兰州城市学院",
+    "nameEn": "Lanzhou City University",
+    "province": "甘肃",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "hebei-normal-university-for-nationalities",
+    "name": "河北民族师范学院",
+    "nameEn": "Hebei Normal University for Nationalities",
+    "province": "河北",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "bengbu-university",
+    "name": "蚌埠学院",
+    "nameEn": "Bengbu University",
+    "province": "安徽",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "xinyu-university",
+    "name": "新余学院",
+    "nameEn": "Xinyu University",
+    "province": "江西",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "honghe-university",
+    "name": "红河学院",
+    "nameEn": "Honghe University",
+    "province": "云南",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "ankang-university",
+    "name": "安康学院",
+    "nameEn": "Ankang University",
+    "province": "陕西",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "zhoukou-normal-university",
+    "name": "周口师范学院",
+    "nameEn": "Zhoukou Normal University",
+    "province": "河南",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "shaoyang-university",
+    "name": "邵阳学院",
+    "nameEn": "Shaoyang University",
+    "province": "湖南",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "baoding-university",
+    "name": "保定学院",
+    "nameEn": "Baoding University",
+    "province": "河北",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "hulunbuir-university",
+    "name": "呼伦贝尔学院",
+    "nameEn": "Hulunbuir University",
+    "province": "内蒙古",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "shandong-youth-university-of-political-science",
+    "name": "山东青年政治学院",
+    "nameEn": "Shandong Youth University of Political Science",
+    "province": "山东",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "chizhou-university",
+    "name": "池州学院",
+    "nameEn": "Chizhou University",
+    "province": "安徽",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "daqing-normal-university",
+    "name": "大庆师范学院",
+    "nameEn": "Daqing Normal University",
+    "province": "黑龙江",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "jilin-agricultural-science-and-technology-university",
+    "name": "吉林农业科技学院",
+    "nameEn": "Jilin Agricultural Science and Technology University",
+    "province": "吉林",
+    "category": "农业",
+    "tags": []
+  },
+  {
+    "id": "taiyuan-institute-of-technology",
+    "name": "太原工业学院",
+    "nameEn": "Taiyuan Institute of Technology",
+    "province": "山西",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "xingtai-university",
+    "name": "邢台学院",
+    "nameEn": "Xingtai University",
+    "province": "河北",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "hunan-university-of-humanities-science-and-technology",
+    "name": "湖南人文科技学院",
+    "nameEn": "Hunan University of Humanities, Science and Technology",
+    "province": "湖南",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "handan-college",
+    "name": "邯郸学院",
+    "nameEn": "Handan College",
+    "province": "河北",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "langfang-teachers-university",
+    "name": "廊坊师范学院",
+    "nameEn": "Langfang Teachers University",
+    "province": "河北",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "yili-normal-university",
+    "name": "伊犁师范大学",
+    "nameEn": "Yili Normal University",
+    "province": "新疆",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "heihe-university",
+    "name": "黑河学院",
+    "nameEn": "Heihe University",
+    "province": "黑龙江",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "nanjing-normal-university-of-special-education",
+    "name": "南京特殊教育师范学院",
+    "nameEn": "Nanjing Normal University of Special Education",
+    "province": "江苏",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "jingchu-university-of-technology",
+    "name": "荆楚理工学院",
+    "nameEn": "Jingchu University of Technology",
+    "province": "湖北",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "wuyi-university-wuyiu",
+    "name": "武夷学院",
+    "nameEn": "Wuyi University",
+    "province": "福建",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "henan-institute-of-technology",
+    "name": "河南工学院",
+    "nameEn": "Henan Institute of Technology",
+    "province": "河南",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "hexi-university",
+    "name": "河西学院",
+    "nameEn": "HeXi University",
+    "province": "甘肃",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "chuxiong-normal-university",
+    "name": "楚雄师范学院",
+    "nameEn": "Chuxiong Normal University",
+    "province": "云南",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "chifeng-university",
+    "name": "赤峰学院",
+    "nameEn": "Chifeng University",
+    "province": "内蒙古",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "heze-university",
+    "name": "菏泽学院",
+    "nameEn": "Heze University",
+    "province": "山东",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "liupanshui-normal-university",
+    "name": "六盘水师范学院",
+    "nameEn": "Liupanshui Normal University",
+    "province": "贵州",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "kashi-university",
+    "name": "喀什大学",
+    "nameEn": "Kashi University",
+    "province": "新疆",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "suihua-university",
+    "name": "绥化学院",
+    "nameEn": "Suihua University",
+    "province": "黑龙江",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "shaanxi-xueqian-normal-university",
+    "name": "陕西学前师范学院",
+    "nameEn": "Shaanxi Xueqian Normal University",
+    "province": "陕西",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "guiyang-nursing-vocational-college",
+    "name": "贵阳康养职业大学",
+    "nameEn": "Qiushi College of Guizhou Normal University Institute",
+    "province": "贵州",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "eastern-liaoning-university",
+    "name": "辽东学院",
+    "nameEn": "Eastern Liaoning University",
+    "province": "辽宁",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "yuncheng-university",
+    "name": "运城学院",
+    "nameEn": "Yuncheng University",
+    "province": "山西",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "huaihua-university",
+    "name": "怀化学院",
+    "nameEn": "Huaihua University",
+    "province": "湖南",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "long-dong-university",
+    "name": "陇东学院",
+    "nameEn": "Long Dong University",
+    "province": "甘肃",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "baicheng-normal-university",
+    "name": "白城师范学院",
+    "nameEn": "Baicheng Normal University",
+    "province": "吉林",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "jingdezhen-university",
+    "name": "景德镇学院",
+    "nameEn": "Jingdezhen University",
+    "province": "江西",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "hunan-institute-of-technology",
+    "name": "湖南工学院",
+    "nameEn": "Hunan Institute of Technology",
+    "province": "湖南",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "guilin-university-of-aerospace-technology",
+    "name": "桂林航天工业学院",
+    "nameEn": "Guilin University of Aerospace Technology",
+    "province": "广西",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "shengli-college-china-university-of-petroleum",
+    "name": "山东石油化工学院",
+    "nameEn": "Shengli College, China University of Petroleum",
+    "province": "山东",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "wuzhou-university",
+    "name": "梧州学院",
+    "nameEn": "Wuzhou University",
+    "province": "广西",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "huzhou-university-qiuzhen-college",
+    "name": "湖州学院",
+    "nameEn": "Huzhou University Qiuzhen College",
+    "province": "浙江",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "east-china-institute-of-technology-yangtze-river-college",
+    "name": "赣东学院",
+    "nameEn": "East China Institute of Technology, Yangtze River College",
+    "province": "江西",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "lanzhou-institute-of-technology",
+    "name": "兰州工业学院",
+    "nameEn": "Lanzhou Institute of Technology",
+    "province": "甘肃",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "jinzhong-university",
+    "name": "晋中学院",
+    "nameEn": "Jinzhong University",
+    "province": "山西",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "baoshan-university",
+    "name": "保山学院",
+    "nameEn": "Baoshan University",
+    "province": "云南",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "ordos-institute-of-technology",
+    "name": "鄂尔多斯应用技术学院",
+    "nameEn": "Ordos Institute of Technology",
+    "province": "内蒙古",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "qiongtai-normal-university",
+    "name": "琼台师范学院",
+    "nameEn": "Qiongtai Normal University",
+    "province": "海南",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "wenshan-university",
+    "name": "文山学院",
+    "nameEn": "Wenshan University",
+    "province": "云南",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "guizhou-university-of-engineering-science",
+    "name": "贵州工程应用技术学院",
+    "nameEn": "Guizhou University of Engineering Science",
+    "province": "贵州",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "puer-university",
+    "name": "普洱学院",
+    "nameEn": "Puer University",
+    "province": "云南",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "hengshui-university",
+    "name": "衡水学院",
+    "nameEn": "Hengshui University",
+    "province": "河北",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "changzhi-university",
+    "name": "长治学院",
+    "nameEn": "Changzhi University",
+    "province": "山西",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "baise-university",
+    "name": "百色学院",
+    "nameEn": "Baise University",
+    "province": "广西",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "sichuan-university-for-nationalities",
+    "name": "四川民族学院",
+    "nameEn": "Sichuan University for Nationalities",
+    "province": "四川",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "xingyi-normal-university-for-nationalities",
+    "name": "兴义民族师范学院",
+    "nameEn": "Xingyi Normal University for Nationalities",
+    "province": "贵州",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "zhangjiakou-university",
+    "name": "张家口学院",
+    "nameEn": "Zhangjiakou University",
+    "province": "河北",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "xinjiang-institute-of-engineering",
+    "name": "新疆工程学院",
+    "nameEn": "Xinjiang Institute of Engineering",
+    "province": "新疆",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "lanzhou-university-of-arts-and-science",
+    "name": "兰州文理学院",
+    "nameEn": "Lanzhou University of Arts and Science",
+    "province": "甘肃",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "xinzhou-teachers-university",
+    "name": "忻州师范学院",
+    "nameEn": "Xinzhou Teachers University",
+    "province": "山西",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "hebei-university-of-water-resources-and-electric-engineering",
+    "name": "河北水利电力学院",
+    "nameEn": "Hebei University of Water Resources and Electric Engineering",
+    "province": "河北",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "luliang-university",
+    "name": "吕梁学院",
+    "nameEn": "Luliang University",
+    "province": "山西",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "bozhou-university",
+    "name": "亳州学院",
+    "nameEn": "Bozhou University",
+    "province": "安徽",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "guangxi-science-and-technology-normal-university",
+    "name": "广西科技师范学院",
+    "nameEn": "Guangxi Science and Technology Normal University",
+    "province": "广西",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "changsha-normal-university",
+    "name": "长沙师范学院",
+    "nameEn": "Changsha Normal University",
+    "province": "湖南",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "hechi-university",
+    "name": "河池学院",
+    "nameEn": "Hechi University",
+    "province": "广西",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "guangxi-normal-university-for-nationalities",
+    "name": "广西民族师范学院",
+    "nameEn": "Guangxi Normal University for Nationalities",
+    "province": "广西",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "shanxi-institute-of-energy",
+    "name": "山西能源学院",
+    "nameEn": "Shanxi Institute of Energy",
+    "province": "山西",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "college-of-applied-science-jiangxi-university-of-science-and-technology",
+    "name": "赣南科技学院",
+    "nameEn": "College of Applied Science, Jiangxi University of Science and Technology",
+    "province": "江西",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "polytechnic-college-of-hebei-university-of-science-and-technology",
+    "name": "河北工业职业技术大学",
+    "nameEn": "Polytechnic College of Hebei University of Science and Technology",
+    "province": "河北",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "zhixing-college-of-northwest-normal-university-3",
+    "name": "兰州石化职业技术大学",
+    "nameEn": "Zhixing College of Northwest Normal University",
+    "province": "甘肃",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "heilongjiang-university-of-technology",
+    "name": "黑龙江工业学院",
+    "nameEn": "Heilongjiang University of Technology",
+    "province": "黑龙江",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "hebei-university-of-technology-city-college",
+    "name": "河北石油职业技术大学",
+    "nameEn": "Hebei University of Technology City College",
+    "province": "河北",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "yuzhang-normal-university",
+    "name": "豫章师范学院",
+    "nameEn": "Yuzhang Normal University",
+    "province": "江西",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "shanxi-institute-of-technology",
+    "name": "山西工程技术学院",
+    "nameEn": "Shanxi Institute of Technology",
+    "province": "山西",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "jining-normal-university",
+    "name": "集宁师范学院",
+    "nameEn": "Jining Normal University",
+    "province": "内蒙古",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "wenzhou-university-oujiang-college",
+    "name": "温州理工学院",
+    "nameEn": "Wenzhou University Oujiang College",
+    "province": "浙江",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "baotou-teachers-college",
+    "name": "内蒙古科技大学包头师范学院",
+    "nameEn": "Baotou Teachers' College",
+    "province": "内蒙古",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "huake-college-of-taiyuan-university-of-science-and-technology-1",
+    "name": "山西科技学院",
+    "nameEn": "Shanxi Institute of Science and Technology",
+    "province": "山西",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "zhaotong-university",
+    "name": "昭通学院",
+    "nameEn": "Zhaotong University",
+    "province": "云南",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "gansu-normal-university-for-nationalities",
+    "name": "甘肃民族师范学院",
+    "nameEn": "Gansu Normal University for Nationalities",
+    "province": "甘肃",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "changji-university",
+    "name": "昌吉学院",
+    "nameEn": "Changji University",
+    "province": "新疆",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "hetao-college",
+    "name": "河套学院",
+    "nameEn": "Hetao University",
+    "province": "内蒙古",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "west-yunnan-university",
+    "name": "滇西科技师范学院",
+    "nameEn": "West Yunnan University",
+    "province": "云南",
+    "category": "师范",
+    "tags": []
+  },
+  {
+    "id": "xinjiang-institute-of-technology",
+    "name": "新疆理工学院",
+    "nameEn": "Xinjiang Institute of Technology",
+    "province": "新疆",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "guangxi-university-xingjian-college-of-science-and-liberal-arts-2",
+    "name": "广西农业职业技术大学",
+    "nameEn": "Guangxi Vocational University of Agriculture",
+    "province": "广西",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "taiyuan-university",
+    "name": "太原学院",
+    "nameEn": "Taiyuan University",
+    "province": "山西",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "shan-xi-gong-cheng-ke-ji-zhi-ye-da-xue",
+    "name": "山西工程科技职业大学",
+    "nameEn": "Shanxi Vocational University of Engineering Science and Technology",
+    "province": "山西",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "college-of-science-technology-shihezi-university",
+    "name": "新疆政法学院",
+    "nameEn": "Xinjiang University of Political Science and Law",
+    "province": "新疆",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "west-yunnan-university-of-applied-sciences",
+    "name": "滇西应用技术大学",
+    "nameEn": "West Yunnan University of Applied Sciences",
+    "province": "云南",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "hebei-geo-university",
+    "name": "河北地质大学",
+    "nameEn": "Hebei GEO University",
+    "province": "河北",
+    "category": "综合",
+    "tags": []
+  },
+  {
+    "id": "modern-college-of-humanities-and-sciences-of-shanxi-normal-university",
+    "name": "山西电子科技学院",
+    "nameEn": "Shanxi University of Electronic Science and Technology",
+    "province": "山西",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "nanjing-vocational-university-of-industry-technology",
+    "name": "南京工业职业技术大学",
+    "nameEn": "Nanjing Vocational University of Industry Technology",
+    "province": "江苏",
+    "category": "理工",
+    "tags": []
+  },
+  {
+    "id": "guangxi-vocational-normal-university",
+    "name": "广西职业师范学院",
+    "nameEn": "Guangxi Vocational Normal University",
+    "province": "广西",
+    "category": "综合",
+    "tags": []
+  }
+]
